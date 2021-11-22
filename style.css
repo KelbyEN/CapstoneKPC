@@ -1,0 +1,45 @@
+h1 {
+    color: rgb(202, 22, 52)
+}
+
+h1 {
+    text-align: center
+}
+
+h2 {
+    text-align: center;
+    font-style: oblique;
+
+}
+nav {
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+    
+}
+
+main {
+    border: 5px solid white;
+    border-width: thin;
+}
+
+body {
+    text-align: center;
+    
+}
+
+h3 {
+    text-align: center;
+}
+
+body {
+    background: gray;
+}
+
+ul li {
+    list-style-position: inside;
+}
+footer { 
+    text-align: center;
+}
+

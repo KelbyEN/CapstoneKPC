@@ -4,32 +4,84 @@ h1 {
 
 h1 {
     text-align: center
+
 }
 
 h2 {
     text-align: center;
     font-style: oblique;
 
+
 }
 nav {
-    font-size: large;
+    font-size:x-large;
     font-family: Georgia, 'Times New Roman', Times, serif;
-   
-    
+    text-align: center;
+    background-color: whitesmoke;
+    text-align: inherit
+    ;
+
+
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid rgb(202, 22, 52);
+    float: left;
+    width: 180px;
+  }
+
+div.gallery {
+    border: 1px solid #777;
 }
 
 main {
-    border: 5px solid white;
-    border-width: thin;
+
+    border: 8px solid white;
+    border-style: double;
+    text-align: center;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 250px;
+    width: 45%;
+    margin-top: 100px;
+    margin-bottom: 60px;
+    margin-right: 400px;
+    margin-left: 400px;
+
+
+}
+
+main.books
+{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h3.category
+{
+    text-shadow: rgb(202, 22, 52);
+    font-size: larger;
 }
 
 body {
     text-align: center;
-    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 
 h3 {
     text-align: center;
+    font-size: large
+
+
+}
+
+
+
+a:hover {
+    color: rgb(202, 22, 52);
 }
 
 body {
@@ -38,8 +90,29 @@ body {
 
 ul li {
     list-style-position: inside;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large
 }
-footer { 
+
+
+main.books {
+
+       text-align: center;
+
+
+    }
+
+    main.books {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: x-large;
+    }
+
+
+footer {
     text-align: center;
+    background-color: whitesmoke;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 

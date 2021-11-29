@@ -132,9 +132,15 @@ main.books {
 
     }
 
-    main.books {
+    section {
         font-family: Georgia, 'Times New Roman', Times, serif;
-        font-size: x-large;
+        font-size: 20px;
+    }
+
+    section2 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 20px;
+
     }
 
 

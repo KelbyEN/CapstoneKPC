@@ -1,18 +1,8 @@
 h1 {
-    color: black;
-    font-style: oblique;
-}
-
-h1 {
-    text-align: center
-
-}
-
-h2 {
     text-align: center;
+    color: whitesmoke;
+    font-size: 40px;
     font-style: oblique;
-
-
 }
 
     .bg-img {
@@ -20,6 +10,8 @@ h2 {
         background-image: url("photos/kpclogo.jpg");
 
         min-height: 300px;
+        width: auto;
+        margin: 10px;
 
         /* Center and scale the image nicely */
         background-position: center;
@@ -55,7 +47,7 @@ h2 {
 
       .topnav a:hover {
         background-color: #ddd;
-        color: black;
+        color: whitesmoke;
       }
 
 
@@ -74,6 +66,7 @@ h2 {
     margin-bottom: 60px;
     margin-right: 350px;
     margin-left: 350px;
+    color: whitesmoke;
 
 
 }
@@ -82,6 +75,14 @@ h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+img {
+    width: auto;
+        margin: 5px;
+        margin-top: 150px;
+    margin-bottom: 70px;
+    margin-right: 400px;
+    margin-left: 400px;
+}
 main.books
 {
     font-size: x-large;
@@ -137,10 +138,58 @@ main.books {
         font-size: 20px;
     }
 
-    section2 {
-        font-family: Georgia, 'Times New Roman', Times, serif;
-        font-size: 20px;
 
+
+    /*top of the page*/
+
+    header {
+        background-color: #666;
+        padding: 30px;
+        text-align: center;
+        font-size: 35px;
+        color: white;
+      }
+/*background*/
+    article {
+
+      background-color: peachpuff;
+      text-align: center;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 20px;
+      border: dotted;
+      border-bottom-width: 5px;
+        padding: 10px;
+    }
+
+/*stats*/
+
+   div.bio {
+      text-align: center;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 15px;
+
+    }
+
+
+/*asking*/
+    h2 {
+      color: whitesmoke;
+      text-align: left;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 18px;
+    }
+/*website links*/
+    .tube {
+    text-align: center;
+
+    }
+/*contact info*/
+    .about {
+      background-color: #666;
+        padding: 30px;
+        text-align: center;
+        font-size: 35px;
+        color: white;
     }
 
 

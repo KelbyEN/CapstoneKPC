@@ -4,36 +4,43 @@ h1 {
     font-size: 40px;
     font-style: oblique;
 }
+h2 {
+  text-align: center;
+    color: whitesmoke;
+    font-size: 25px;
+    font-style: oblique;
 
-    .bg-img {
-        /* The image used */
-        background-image: url("photos/kpclogo.jpg");
+}
 
-        min-height: 300px;
-        width: auto;
-        margin: 10px;
+.bg-img {
+
+/* The image used */
+background-image: url("photos/kpclogo.jpg");
+
+min-height: 300px;
+width: auto;
+margin: 10px;
 
 
-        /* Center and scale the image nicely */
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
+/* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
 
-        /* Needed to position the navbar */
-        position: relative;
-      }
+ /* Needed to position the navbar */
+position: relative;
+}
+/* Position the navbar container inside the image */
+.container {
+position: absolute;
+margin: 10px;
+width: auto;
+}
 
-      /* Position the navbar container inside the image */
-      .container {
-        position: absolute;
-        margin: 10px;
-        width: auto;
-      }
-
-      /* The navbar */
-      .topnav {
-        overflow: hidden;
-        background-color: gray;
+/* The navbar */
+.topnav {
+overflow: hidden;
+background-color: gray;
       }
 
       /* Navbar links */
@@ -78,6 +85,8 @@ h1 {
 
 }
 
+
+
 /*margin for all images*/
 div.topics {
     width: auto;
@@ -117,14 +126,7 @@ h3 {
 
 }
 
-div.pic {
-    margin: 5px;
-        margin-top: 150px;
-    margin-bottom: 70px;
-    margin-right: 400px;
-    margin-left: 400px;
-}
-
+/*code for both forms*/
 form {
     border:palevioletred;
 border-width: 8px;
@@ -160,6 +162,8 @@ ul li {
 main.books {
 
        text-align: center;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large
 
 
     }
@@ -214,14 +218,8 @@ main.books {
     text-align: center;
 
     }
-/*contact info*/
-    .about {
-      background-color: #666;
-        padding: 30px;
-        text-align: center;
-        font-size: 35px;
-        color: white;
-    }
+/*carousel*/
+
 
 
 footer {

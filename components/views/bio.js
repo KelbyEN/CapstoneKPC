@@ -1,27 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="style.css" rel=stylesheet>
-  <title>Kelby Alese the Poet
+import html from "html-literal";
 
-  </title>
-</head>
-<body>
-  <div class="bg-img">
-    <div class="container">
-      <div class="topnav">
-        <a href= "index.html" target="_top"><u>Home</u></a>
-                <a href= "cards.html" target="_top"><u>Cards</u></a>
-                <a href= "About.html" target="_top"><u>About</u></a>
-                    <a href= "books.html" target="_top"><u>Books</u></a>
-                        <a href= "cart.html" target="_top"><u>Cart</u></a>
-
-      </div>
-    </div>
-  </div><br>
+export default () => html`
 <header>Kelby Alese the Poet<br>
 </header>
 
@@ -63,16 +42,4 @@
 
 
 </body>
-
-<footer>
-
-  <p>
-      <h3 style="color:gray;"><b>For Booking</b></h3>
-     <li style="color:gray;">Email: KittyPinkOils@gmail.com</li>
-
-
-  </p>
-
-
-  </footer>
-</html>
+`

@@ -1,13 +1,26 @@
 import html from "html-literal";
-export default () => html`
 
-<head>
+const kelvinToFahrenheit = kelvinTemp =>
+  Math.round((kelvinTemp - 273.15) * (9 / 5) + 32);
+export default st => html`
+  Weather in ${st.weather.city} ${kelvinToFahrenheit(st.weather.temp)}F, feels
+  like ${kelvinToFahrenheit(st.weather.feelsLike)}F
+
+  <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kittypinkcards</title>
     <link href="style.css" rel="stylesheet" />
 </head>
+
+    <a href="" onClick="alert('Expressing YOU the best!')"
+      >"Shop Here!"</a
+    >
+  </section>
+ ;
+
+
 
 <h1><b>Our Story</b> </h1>
         <main>

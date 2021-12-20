@@ -1,6 +1,7 @@
 import html from "html-literal";
 
 export default () => html`
+  <section id="bio">
 <header>Kelby Alese the Poet<br>
 </header>
 

@@ -1,4 +1,5 @@
 import html from "html-literal";
+import poeticphotos from "../../assets/images/photos/poeticphotos.jpg";
 
 export default () => html`
   <section id="bio">
@@ -8,7 +9,8 @@ export default () => html`
 
 
  <div class="booking">
-  <img src= "photos/pphotos.jpg" width=500x500 alt="Kelby">
+
+
 
 
  </div>

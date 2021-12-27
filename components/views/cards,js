@@ -1,6 +1,8 @@
 import html from "html-literal";
 
-export default () => html`
+export default () => html
+<section id="Cards"></section>`
+
 
 <section>
   <div class="w3-container">

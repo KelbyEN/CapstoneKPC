@@ -21,7 +21,7 @@
 
 
 "scripts": {
-    "parcel-build": "parcel build index.html && cp _redirects ./dist/",
-    "serve": "parcel index.html"
-  },
+  "parcel-builder": "parcel build index.html && cp _redirects ./dist/",
+  "serve": "parcel index.html"
+},
 

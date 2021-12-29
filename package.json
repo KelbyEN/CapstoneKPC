@@ -18,3 +18,10 @@
     "yargs-parser": ">=13.1.2"
   }
 }
+
+
+"scripts": {
+    "parcel-build": "parcel build index.html && cp _redirects ./dist/",
+    "serve": "parcel index.html"
+  },
+

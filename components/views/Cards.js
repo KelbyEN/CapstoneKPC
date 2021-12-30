@@ -6,20 +6,9 @@ export default () => html`
   <div class="w3-container">
     <p>Take a look at our cards!</p>
 
-   <div.topics style="color: whitesmoke;">
-     <img src="photos/anxiety.jpg" width=200x200 alt="Anxiety"> <br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
-     <img src="photos/sprevent1.jpg" width=200x200 alt="Suicide Prevention"><br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
-     <img src="photos/sprevent2.jpg" width=200x200 alt="Suicide Prevention"><br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
-          <img src="photos/congratscheer.jpg" width=200X200 alt="Congrats"><br>Greeting $3.00 <br> For written expressions <br>  <br>
-    <img src="photos/happy bday sis.jpg" width=200x200 alt="bday"><br>Greeting $3.00<br> For written expressions <br>
-    <img src="photos/sympathy1.jpg" width=200x200 alt="Sympathy"><br>Greeting $3.00<br> For written expressions <br>
-    <img src="photos/sympathy2.jpg" width=200x200 alt="Sympathy"><br>Greeting $3.00<br> For written expressions <br>
-    <img src="photos/Romanceking.jpg" width=200x200 alt="Romance"><br>Romance $5.00<br> For those you share a bed with <br>
-     <img src="photos/blueanniversary.jpg" width=200x200 alt="Romance"><br>Romance $5.00<br> For those you share a bed with <br>
-     <img src="photos/numberone.jpg" width=200x200 alt="Romance"><br>Romance $5.00<br> For those you share a bed with <br>
-    <img src="photos/romancepuffs.jpg" width=200x200 alt="romance"><br>Romance $5.00<br> For those you share a bed with <br>
-     <img src="photos/marketing1.jpg" width=200X200 alt="Marketing"> <br>Custom $10.00 <br> For making it personal <br>
-   </div.topics>
+   <div style="color: whitesmoke;">
+
+   </div>
   </div>
 
 
@@ -65,4 +54,16 @@ export default () => html`
 </body>
 © 2021 GitHub, Inc.
 Terms
-Privacy`
+Privacy`;
+//  <img src="photos/anxiety.jpg" width=200x200 alt="Anxiety"> <br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
+//  <img src="photos/sprevent1.jpg" width=200x200 alt="Suicide Prevention"><br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
+//  <img src="photos/sprevent2.jpg" width=200x200 alt="Suicide Prevention"><br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
+//       <img src="photos/congratscheer.jpg" width=200X200 alt="Congrats"><br>Greeting $3.00 <br> For written expressions <br>  <br>
+// <img src="photos/happy bday sis.jpg" width=200x200 alt="bday"><br>Greeting $3.00<br> For written expressions <br>
+// <img src="photos/sympathy1.jpg" width=200x200 alt="Sympathy"><br>Greeting $3.00<br> For written expressions <br>
+// <img src="photos/sympathy2.jpg" width=200x200 alt="Sympathy"><br>Greeting $3.00<br> For written expressions <br>
+// <img src="photos/Romanceking.jpg" width=200x200 alt="Romance"><br>Romance $5.00<br> For those you share a bed with <br>
+//  <img src="photos/blueanniversary.jpg" width=200x200 alt="Romance"><br>Romance $5.00<br> For those you share a bed with <br>
+//  <img src="photos/numberone.jpg" width=200x200 alt="Romance"><br>Romance $5.00<br> For those you share a bed with <br>
+// <img src="photos/romancepuffs.jpg" width=200x200 alt="romance"><br>Romance $5.00<br> For those you share a bed with <br>
+//  <img src="photos/marketing1.jpg" width=200X200 alt="Marketing"> <br>Custom $10.00 <br> For making it personal <br></br>

@@ -15,7 +15,7 @@ h2 {
 .bg-img {
 
 /* The image used */
-background-image: url("photos/kpclogo.jpg");
+background-image: url("assets/images/kpclogo.jpg");
 
 min-height: 300px;
 width: auto;

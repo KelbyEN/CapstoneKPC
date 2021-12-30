@@ -8,9 +8,9 @@ export default () => html`
 <p>
 
     <b>Poetic Photos</b><br> <i>by Kelby Alese</i><br><br>
-    <img src="photos/poeticphotos.jpg" alt=Book1><br>
+    <img src="assets/images/poeticphotos.jpg" alt=Book1><br>
 
-    <img.poetic src="photos/poeticphotos.jpg" alt=Book1><br>
+
      This is a poetry book that provides
      <br> a visual of how the author felt
      <br>while writing the poems. Oftentimes

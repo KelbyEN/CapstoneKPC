@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "parcel-builder": "parcel build index.html && cp _redirects ./dist/",
+  "serve": "parcel index.html"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -20,8 +23,4 @@
 }
 
 
-"scripts": {
-  "parcel-builder": "parcel build index.html && cp _redirects ./dist/",
-  "serve": "parcel index.html"
-},
 

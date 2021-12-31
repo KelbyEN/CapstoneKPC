@@ -2,7 +2,7 @@ import html from "html-literal";
 import poeticphotos from "../../assets/images/photos/poeticphotos.jpg";
 
 export default () => html`
-  <section id="bio">
+  <section id="about">
 <header>Kelby Alese the Poet<br>
 </header>
 
@@ -45,4 +45,4 @@ export default () => html`
 
 
 </body>
-`
+`;

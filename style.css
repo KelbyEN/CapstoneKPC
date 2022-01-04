@@ -4,19 +4,11 @@ h1 {
     font-size: 40px;
     font-style: oblique;
 }
-h2 {
-  text-align: center;
-    color: whitesmoke;
-    font-size: 25px;
-    font-style: oblique;
 
-}
+header {
 
-.bg-img {
-
-/* The image used */
+/* The image used for the banner */
 background-image: url("assets/images/kpclogo.jpg");
-
 min-height: 300px;
 width: auto;
 margin: 10px;
@@ -75,11 +67,11 @@ background-color: gray;
     font-size: xx-large;
     font-family: Georgia, 'Times New Roman', Times, serif;
     height: 300px;
-    width: 55%;
+    width: 65%;
     margin-top: 100px;
     margin-bottom: 60px;
-    margin-right: 350px;
-    margin-left: 350px;
+    margin-right: 250px;
+    margin-left: 250px;
     color: whitesmoke;
 
 
@@ -100,17 +92,11 @@ div.topics {
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
-main.books
+.books
 {
     font-size: x-large;
     font-family: Georgia, 'Times New Roman', Times, serif;
 
-}
-
-h3.category
-{
-
-    font-size: x-large
 }
 
 body {
@@ -159,7 +145,7 @@ ul li {
 }
 
 
-main.books {
+main {
 
        text-align: center;
        font-family: Georgia, 'Times New Roman', Times, serif;
@@ -198,13 +184,12 @@ main.books {
 
 /*stats*/
 
-   div.bio {
+   .bio {
       text-align: center;
       font-family: Georgia, 'Times New Roman', Times, serif;
       font-size: 15px;
 
     }
-
 
 /*asking*/
     h2 {
@@ -218,9 +203,6 @@ main.books {
     text-align: center;
 
     }
-/*carousel*/
-
-
 
 footer {
     text-align: center;

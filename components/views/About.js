@@ -1,27 +1,25 @@
 import html from "html-literal";
-import poeticphotos from "../../assets/images/photos/poeticphotos.jpg";
 
 export default () => html`
   <section id="about">
-<header>Kelby Alese the Poet<br>
-</header>
+<h1>Kelby Alese the Poet<br>
+</h1>
 
+<img src =assets/images/pphotos.jpg alt="pphotos" /><br />
 
 
  <div class="booking">
 
 
-
-
  </div>
 
- <div.bio>
+ <div>
  <ul style="color: gray;">
   Name: Kelby A. Estes-Nelson
   Age: 35
   Location: St. Louis, Missouri
 </ul>
-</div.bio>
+</div>
 
 <h2>What's the Word </h2>
 <main>

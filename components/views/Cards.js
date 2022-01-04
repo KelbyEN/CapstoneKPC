@@ -8,6 +8,28 @@ export default () => html`
 
    <div style="color: whitesmoke;">
 
+ <img src="photos/anxiety.jpg" width=200x200 alt="Anxiety"> <br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
+
+ <img src="photos/sprevent1.jpg" width=200x200 alt="Suicide Prevention"><br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
+
+<img src="photos/sprevent2.jpg" width=200x200 alt="Suicide Prevention"><br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
+
+<img src="photos/congratscheer.jpg" width=200X200 alt="Congrats"><br>Greeting $3.00 <br> For written expressions <br>  <br>
+
+<img src="images/happy bday sis.jpg" width=200x200 alt="bday"><br>Greeting $3.00<br> For written expressions <br>
+
+<img src="images/sympathy1.jpg" width=200x200 alt="Sympathy"><br>Greeting $3.00<br> For written expressions <br>
+
+<img src="images/sympathy2.jpg" width=200x200 alt="Sympathy"><br>Greeting $3.00<br> For written expressions <br>
+
+<img src="images/Romanceking.jpg" width=200x200 alt="Romance"><br>Romance $5.00<br> For those you share a bed with <br>
+
+<img src="images/blueanniversary.jpg" width=200x200 alt="Romance"><br>Romance $5.00<br> For those you share a bed with <br>
+
+<img src="images/numberone.jpg" width=200x200 alt="Romance"><br>Romance $5.00<br> For those you share a bed with <br>
+
+<img src="photos/romancepuffs.jpg" width=200x200 alt="romance"><br>Romance $5.00<br> For those you share a bed with <br><br><br><br>
+
    </div>
   </div>
 
@@ -15,7 +37,7 @@ export default () => html`
 
 </section>
 
-
+<img src="photos/marketing1.jpg" width=200X200 alt="Marketing"> <br>Custom $10.00 <br> For making it personal <br>
 
 <form
   action="https://formspree.io/f/xrgjzyzy"

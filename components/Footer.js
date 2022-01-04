@@ -9,6 +9,6 @@ export default () => html`
         <li>Location: St. Louis Mo</li>
 
     </p>
-    &copy; 2021 <a href="https://savvycoders.com/">KittyPinkCards</a>
+    &copy; 2021 <a href="https://www.instagram.com/kittypinkcards/">KittyPinkCards</a>
   </footer>
 `;

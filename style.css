@@ -1,9 +1,9 @@
 h1 {
     text-align: center;
-    color: whitesmoke;
+    color: black;
     font-size: 40px;
     font-style: oblique;
-}
+    }
 
 header {
 
@@ -11,7 +11,7 @@ header {
 background-image: url("assets/images/kpclogo.jpg");
 min-height: 300px;
 width: auto;
-margin: 10px;
+margin: 15px;
 
 
 /* Center and scale the image nicely */
@@ -30,25 +30,26 @@ width: auto;
 }
 
 /* The navbar */
-.topnav {
+nav {
 overflow: hidden;
-background-color: gray;
+background-color: opaque;
       }
 
       /* Navbar links */
-      .topnav a {
-        float: left;
-        color: #f2f2f2;
-        text-align: center;
+      nav a {
+
+        color: #0f0f0f;
+        text-align: left;
         padding: 14px 16px;
-        text-decoration: none;
-        font-size: 20px;
+        font-size: 30px;
+        list-style-type: none;
       }
 
 /*hamburger*/
       @media (min-width: 550px) {
         nav > .fa-bars {
           display: none;
+          color: palevioletred
         }
       }
 /*in html for scrolling*/
@@ -61,7 +62,7 @@ background-color: gray;
 /*aligning the about section, border and word font*/
 .About {
 
-    border: 8px solid white;
+    border: 8px solid black;
     border-style: double;
     text-align: center;
     font-size: xx-large;
@@ -70,17 +71,15 @@ background-color: gray;
     width: 65%;
     margin-top: 100px;
     margin-bottom: 60px;
-    margin-right: 250px;
-    margin-left: 250px;
+    margin-right: 300px;
+    margin-left: 300px;
     color: whitesmoke;
 
 
 }
 
-
-
 /*margin for all images*/
-div.topics {
+img {
     width: auto;
         margin: 5px;
         margin-top: 150px;
@@ -135,7 +134,8 @@ a:hover {
 }
 
 body {
-    background: gray;
+
+    background-image: url("assets/images/stock1.jpg");;
 }
 /*links to each page*/
 ul li {
@@ -188,6 +188,7 @@ main {
       text-align: center;
       font-family: Georgia, 'Times New Roman', Times, serif;
       font-size: 15px;
+      width: auto;
 
     }
 

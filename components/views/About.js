@@ -1,11 +1,12 @@
 import html from "html-literal";
 
 export default () => html`
+
   <section id="about">
 <h1>Kelby Alese the Poet<br>
 </h1>
 
-<img src =assets/images/pphotos.jpg alt="pphotos" /><br />
+<img src ="assets/images/pphotos.jpg" alt="pphotos" /><br />
 
 
  <div class="booking">
@@ -21,7 +22,7 @@ export default () => html`
 </ul>
 </div>
 
-<h2>What's the Word </h2>
+<h1>What's the Word </h1>
 <main>
 
 

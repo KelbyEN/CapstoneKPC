@@ -1,5 +1,5 @@
 import html from "html-literal";
-import pphotos from "assets/images/pphotos.jpg";
+import pphotos from "../../assets/images/pphotos.jpg";
 
 export default () => html`
 
@@ -8,7 +8,7 @@ export default () => html`
 <h1>Kelby Alese the Poet<br>
 </h1>
 
-<img src ="assets/images/pphotos.jpg" alt="pphotos" /><br />
+<img src=${pphotos} alt="Pphotos" /><br />
 
 
  <div class="booking">
@@ -22,7 +22,9 @@ export default () => html`
 
 
 <article style="color:gray;">
-  Kelby Alese is a Poet. She began writing at the age of 7. She performed a monologue at the age of 8 for the Speech League and placed 2nd. She began performing for family and friends shortly after. In Highschool, her English teacher Mrs. Richardson  pushed her to do more with her poetry. She attended a HSSU and performed in a a play titled "Dr. D". She won a Speech and Theatre Award which helped pay for some of her tuition. She has taught creative writing at a local homeless shelter, assisted with character letters and wrote poems for wedding, funerals, and other life occasions. She began performing at the open mic events and Talent Shows. She has also performed on RealSTLNews on their Sunday Spittas show. Kelby, went on the write a poetry book titled "Poetic Photos" and is currently writing her second book "Poetic Anxiety" as well as maintaining a greeting card business.<br>
+  Kelby Alese is a Poet. She began writing at the age of 7. She performed a monologue at the age of 8 for the Speech League and placed 2nd. She began performing for family and friends shortly after. In Highschool, her English teacher Mrs. Richardson  pushed her to do more with her poetry. She attended a HBCU where she performed in a a play titled "Dr. D". She won a Speech and Theatre Award which helped pay for some of her tuition. She has taught creative writing at a local homeless shelter, assisted with character letters and wrote poems for wedding, funerals, and other life occasions. She began performing at the open mic events and Talent Shows. She has also performed on RealSTLNews on their Sunday Spittas show. Kelby, went on the write a poetry book titled "Poetic Photos" and is currently writing her second book "Poetic Anxiety" as well as maintaining a greeting card business.<br>
+
+  <p>For booking please see the information below!</p>
 
   <b>Check out her poems on Youtube</b></><br>
 

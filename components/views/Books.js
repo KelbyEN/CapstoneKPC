@@ -1,7 +1,7 @@
 import html from "html-literal";
 
 export default () => html`
-a  <section id="books">
+  <section id="books">
     <p>
       <b>Poetic Photos</b><br />
       <i>by Kelby Alese</i><br /><br />

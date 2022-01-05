@@ -4,17 +4,17 @@ export default () => html`
 
 <section>
   <div class="w3-container">
-    <p>Take a look at our cards!</p>
+    <h1>Take a look at our cards!</h1>
 
    <div style="color: whitesmoke;">
 
- <img src="photos/anxiety.jpg" width=200x200 alt="Anxiety"> <br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
+ <img src="images/anxiety.jpg" width=200x200 alt="Anxiety"> <br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
 
- <img src="photos/sprevent1.jpg" width=200x200 alt="Suicide Prevention"><br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
+ <img src="images/sprevent1.jpg" width=200x200 alt="Suicide Prevention"><br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
 
-<img src="photos/sprevent2.jpg" width=200x200 alt="Suicide Prevention"><br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
+<img src="images/sprevent2.jpg" width=200x200 alt="Suicide Prevention"><br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
 
-<img src="photos/congratscheer.jpg" width=200X200 alt="Congrats"><br>Greeting $3.00 <br> For written expressions <br>  <br>
+<img src="images/congratscheer.jpg" width=200X200 alt="Congrats"><br>Greeting $3.00 <br> For written expressions <br>  <br>
 
 <img src="images/happy bday sis.jpg" width=200x200 alt="bday"><br>Greeting $3.00<br> For written expressions <br>
 

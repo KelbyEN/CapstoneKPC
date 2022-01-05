@@ -1,5 +1,4 @@
 export default {
   header: "My Cards Page",
-  view: "Cards",
-  pictures: []
+  view: "Cards"
 };

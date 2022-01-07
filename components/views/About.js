@@ -8,7 +8,9 @@ export default () => html`
 <h1>Kelby Alese the Poet<br>
 </h1>
 
+<div id="booking">
 <img src=${pphotos} alt="Pphotos" /><br />
+</div>
 
 
  <div class="booking">
@@ -40,5 +42,5 @@ export default () => html`
 
 
 
-</body>
+  </section>
 `;

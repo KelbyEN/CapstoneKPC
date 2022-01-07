@@ -42,7 +42,12 @@ background-color: opaque;
         text-align: left;
         padding: 14px 16px;
         font-size: 30px;
-        list-style: none;
+              }
+
+      nav ul {
+        list-style-type: none;
+        display: flex;
+        flex-direction: row;
       }
 
 /*hamburger*/
@@ -76,8 +81,18 @@ background-color: opaque;
     color: black;
     background: lightgray;
 
-
+    @media screen .About (min-width: 400px) {
+        margin-right: 250px;
+        margin-left: 150px;
+        height: 100px;
+        width: 40%;
+    };
 }
+
+#booking img {
+    margin: 0 auto;
+}
+
 
 /*margin for all images*/
 img {

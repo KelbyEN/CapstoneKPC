@@ -1,7 +1,7 @@
 h1 {
     text-align: center;
     color: black;
-    font-size: 40px;
+    font-size: 50px;
     font-style: oblique;
     }
 
@@ -78,6 +78,7 @@ background-color: opaque;
     margin-bottom: 60px;
     margin-right: 450px;
     margin-left: 250px;
+    margin: 0 auto;
     color: black;
     background: lightgray;
 
@@ -93,20 +94,16 @@ background-color: opaque;
     margin: 0 auto;
 }
 
-
-/*margin for all images*/
-img {
-    width: auto;
-        margin: 5px;
-        margin-top: 150px;
-    margin-bottom: 70px;
-    margin-right: 400px;
-    margin-left: 400px;
-        white-space: nowrap;
-        font-size: x-large;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.About {
+    margin: 0 auto;
 
 }
+
+#jumbotron {
+    margin: 0 auto;
+
+}
+
 .books
 {
     font-size: x-large;
@@ -194,6 +191,7 @@ main {
       font-family: Georgia, 'Times New Roman', Times, serif;
       font-size: 20px;
       border: dotted;
+      border-color: palevioletred;
       border-bottom-width: 5px;
         padding: 10px;
     }

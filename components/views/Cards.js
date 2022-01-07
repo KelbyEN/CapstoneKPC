@@ -17,6 +17,13 @@ export default () => html`
   <div class="w3-container">
     <h1>Take a look at our cards!</h1>
 
+    <section id="jumbotron">
+    <a href="" onClick="alert('Use code NEW for 10% off!')"
+      >"Add to Cart!"</a
+    >
+    <br>
+  </section>
+
    <div style="color: whitesmoke;">
 
    <div id="booking">

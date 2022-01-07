@@ -1,12 +1,12 @@
 import html from "html-literal";
-
+import Book1 from "../../assets/images/poeticphotos.jpg";
 export default () => html`
   <section id="books">
     <p>
       <b>Poetic Photos</b><br />
       <i>by Kelby Alese</i><br /><br />
 
-      <img src="assets/images/poeticphotos.jpg" alt="Book1" /><br />
+      <img src=${Book1} alt="Book1" /><br />
 
       This is a poetry book that provides
       <br />

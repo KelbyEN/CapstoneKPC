@@ -2,7 +2,8 @@ import html from "html-literal";
 
 export default () => html`
 <h1>To place an order please add the title of the card(s) you are interested in <br>
-  and the amount of those cards you would like in the message field. <br> Once your order is received an email will be sent to you for confirmation and processing time.</h1>
+  and the amount of those cards you would like to purchase, in the message field. <br> Once your order is received, an email will be sent to you for confirmation and processing time.</h1>
+
 
   <form action="https://formspree.io/f/mknywdrl" method="POST">
     <label>
@@ -26,4 +27,6 @@ export default () => html`
 
     <button type="submit">Send</button>
   </form>
+
+  <h3>Paypal is used for processing payments</h3>
 `;

@@ -1,4 +1,5 @@
 import html from "html-literal";
+import anxiety from "../../assets/images/anxiety.jpg";
 
 export default () => html`
 
@@ -8,7 +9,7 @@ export default () => html`
 
    <div style="color: whitesmoke;">
 
- <img src="images/anxiety.jpg" width=200x200 alt="Anxiety"> <br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
+   <img src=${anxiety} alt="anxiety" /><br /><br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
 
  <img src="images/sprevent1.jpg" width=200x200 alt="Suicide Prevention"><br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
 

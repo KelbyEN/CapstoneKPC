@@ -11,6 +11,9 @@ import blueanniversary from "../../assets/images/blueanniversary.jpg";
 import numberone from "../../assets/images/numberone.jpg";
 import romancepuffs from "../../assets/images/romancepuffs.jpg";
 import marketing1 from "../../assets/images/marketing1.jpg";
+function alertButton() {
+  alert("Use code NEW for 10% off!");
+}
 export default () => html`
 
 <section>
@@ -18,9 +21,8 @@ export default () => html`
     <h1>Take a look at our cards!</h1>
 
     <section id="jumbotron">
-    <a href="" onClick="alert('Use code NEW for 10% off!')"
-      >"Add to Cart!"</a
-    >
+    <button onClick="${() => alertButton}"
+      >"Add to Cart!" </button>
     <br>
   </section>
 

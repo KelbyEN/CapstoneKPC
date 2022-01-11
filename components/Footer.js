@@ -10,5 +10,8 @@ export default () => html`
 
     </p>
     &copy; 2021 <a href="https://www.instagram.com/kittypinkcards/">KittyPinkCards</a>
+
+    <div id="homeButton"><h6><a href="#">TAKE ME TO THE TOP</a></h6></div>
+
   </footer>
 `;

@@ -18,9 +18,8 @@ export default () => html`
     <h1>Take a look at our cards!</h1>
 
     <section id="jumbotron">
-    <a href="" onClick="alert('Use code NEW for 10% off!')"
-      >"Add to Cart!"</a
-    >
+    <button id="myBtn"
+      >"Add to Cart!" </button>
     <br>
   </section>
 

@@ -22,6 +22,10 @@ function render(st) {
 }
 
 function addEventListeners(st) {
+  // document.getElementById("myBtn").addEventListener("click", function() {
+  //   alert("Free Coupon");
+  // });
+
   document.querySelectorAll("nav a").forEach(navLink =>
     navLink.addEventListener("click", event => {
       event.preventDefault();

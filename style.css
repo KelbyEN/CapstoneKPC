@@ -15,6 +15,7 @@ width: auto;
 margin: 15px;
 
 
+
 /* Center and scale the image nicely */
 background-position: center;
 background-repeat: no-repeat;
@@ -32,8 +33,9 @@ width: auto;
 
 /* The navbar */
 nav {
-overflow: hidden;
-background-color: transparent;
+overflow: scroll;
+color: palevioletred;
+height: 50px;
       }
 
       /* Navbar links */

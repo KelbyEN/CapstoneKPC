@@ -1,6 +1,6 @@
 import html from "html-literal";
 import Book1 from "../../assets/images/poeticphotos.jpg";
-import pgb from "../../assets/images/pgb.jpg";
+
 export default () => html`
   <section id="books">
     <p>

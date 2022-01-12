@@ -6,7 +6,7 @@ const kelvinToFahrenheit = kelvinTemp =>
 export default st => html`
   <h1><b>Our Story</b></h1>
 
-   <main>
+  <main>
     Weather in ${st.weather.city} ${kelvinToFahrenheit(st.weather.temp)}F, feels
     like ${kelvinToFahrenheit(st.weather.feelsLike)}F
     <div class="About">
@@ -40,6 +40,5 @@ export default st => html`
         >Follow us on Linkedin!</a
       >
     </p>
-    .
   </h3>
 `;

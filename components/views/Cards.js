@@ -18,12 +18,14 @@ export default () => html`
     <h1>Take a look at our cards!</h1>
 
     <section id="jumbotron">
+
     <button id="myBtn"
       >"Add to Cart!" </button>
-    <br>
+    <br><br>
+
   </section>
 
-   <div style="color: whitesmoke;">
+   <div style="color: black;">
 
    <div id="booking">
 
@@ -94,6 +96,4 @@ export default () => html`
                                 <p><a href="https://www.linkedin.com/m/in/kelby-a-estes-nelson-83350826/">Follow us on Linkedin!</a></p>.
                             </h3>
 </body>
-© 2021 GitHub, Inc.
-Terms
-Privacy`;
+© 2021 KittyPinkCards LLC`;

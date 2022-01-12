@@ -55,13 +55,15 @@ background-color: opaque;
       @media (min-width: 550px) {
         nav > .fa-bars {
           display: none;
-          color: palevioletred
+          color: palevioletred;
+        height: 20px;
         }
       }
 /*in html for scrolling*/
       @media (max-width: 550px) {
         .hidden--mobile {
           display: none;
+          color:blueviolet
         }
       }
 
@@ -133,7 +135,7 @@ form {
 border-width: 8px;
 border-style: double;
     text-align: center;
-
+margin: 0 auto;
     font-size: xx-large;
     font-family: Georgia, 'Times New Roman', Times, serif;
     height: 300px;
@@ -221,6 +223,13 @@ main {
     text-align: center;
 
     }
+
+#myBtn {
+    color: palevioletred;
+cursor: pointer;
+
+
+}
 
 footer {
     text-align: center;

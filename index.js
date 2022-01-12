@@ -29,6 +29,10 @@ function addEventListeners(st) {
     })
   );
 
+  document.getElementById("myBtn").addEventListener("click", function() {
+    alert("Use code NEW for 10% off!");
+  });
+
   // add menu toggle to bars icon in nav bar
   document
     .querySelector(".fa-bars")

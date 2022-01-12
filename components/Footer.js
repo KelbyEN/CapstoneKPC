@@ -5,7 +5,7 @@ export default () => html`
   <p>
         <h3><b>Contact Us</b></h3>
        <li>Email: KittyPinkCards@gmail.com</li>
-        <li>Number: 314-502-9952</li>
+        <li>Number: 636-431-4480</li>
         <li>Location: St. Louis Mo</li>
 
     </p>

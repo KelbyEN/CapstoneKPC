@@ -22,16 +22,16 @@ function render(st) {
 }
 
 function addEventListeners(st) {
-  // document.getElementById("myBtn").addEventListener("click", function() {
-  //   alert("Free Coupon");
-  // });
-
   document.querySelectorAll("nav a").forEach(navLink =>
     navLink.addEventListener("click", event => {
       event.preventDefault();
       render(state[event.target.title]);
     })
   );
+
+  document.getElementById("myBtn").addEventListener("click", function() {
+    alert("Use code NEW for 10% off!");
+  });
 
   // add menu toggle to bars icon in nav bar
   document

@@ -31,10 +31,11 @@ margin: 10px;
 width: auto;
 }
 
-/* The navbar */
+/*hamburger*/
 nav {
-overflow: scroll;
+overflow: hidden;
 color: palevioletred;
+display: list-item;
 height: 50px;
       }
 
@@ -53,20 +54,17 @@ height: 50px;
         flex-direction: row;
       }
 
-/*hamburger*/
+
       @media (min-width: 550px) {
         nav > .fa-bars {
           display: none;
-          color: palevioletred;
-        height: 20px;
-        }
+                          }
       }
 /*in html for scrolling*/
       @media (max-width: 550px) {
         .hidden--mobile {
           display: none;
-          color:blueviolet
-        }
+           }
       }
 
 /*aligning the about section, border and word font*/
@@ -169,7 +167,7 @@ main {
 
        text-align: center;
        font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: large
+    font-size: large;
 
 
     }
@@ -229,8 +227,6 @@ main {
 #myBtn {
     color: palevioletred;
 cursor: pointer;
-
-
 }
 
 footer {

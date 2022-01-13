@@ -35,8 +35,6 @@ width: auto;
 nav {
 overflow: hidden;
 color: palevioletred;
-display: list-item;
-height: 50px;
       }
 
       /* Navbar links */
@@ -58,8 +56,9 @@ height: 50px;
       @media (min-width: 550px) {
         nav > .fa-bars {
           display: none;
-                          }
+                  }
       }
+
 /*in html for scrolling*/
       @media (max-width: 550px) {
         .hidden--mobile {

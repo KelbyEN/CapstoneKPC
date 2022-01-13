@@ -67,19 +67,19 @@ export default () => html`
 >
   <label>
     Your email:
-    <input type="email" name="_replyto">
+    <input type="email" name="email">
   </label><br>
   <label>
     Your font:
-    <input type="font" name="_replyto">
+    <input type="text" name="font">
   </label><br>
   <label>
     Your color:
-    <input type="color" name="_replyto">
+    <input type="color" name="color">
   </label><br>
   <label>
     Your occasion:
-    <input type="occasion" name="_replyto">
+    <input type="text" name="occasion">
   </label><br>
   <label>
     Your message:

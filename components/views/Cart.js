@@ -9,24 +9,22 @@ export default () => html`
     <label>
       <br />
       Your email:
-      <input type="Your email" name="_replyto" />
+      <input type="Your email" name="email" />
     </label>
     <label><br>
     Your name:
-      <input type="Full name" name="_replyto" />
+      <input type="name" name="name" />
     </label><br>
     Your number:
-      <input type="Phone Number" name="_replyto" />
+      <input type="phone" name="phone" />
     </label>
       <br />
       Your message:
-      <textarea name="What's the word? Input your message."></textarea> </label
-    ><br />
-    Your message:
-
-
-    <button type="submit">Send</button>
-  </form>
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
 
   <h3>Paypal is used for processing payments</h3>
 `;

@@ -158,10 +158,9 @@ h3 {
 /*code for both forms*/
 form {
     border:palevioletred;
-border-width: 8px;
+border-width: 14px;
 border-style: double;
     text-align: center;
-margin: 0 auto;
     font-size: xx-large;
     font-family: Georgia, 'Times New Roman', Times, serif;
     height: 300px;
@@ -170,6 +169,10 @@ margin: 0 auto;
     margin-bottom: 60px;
     margin-right: 350px;
     margin-left: 350px;
+}
+
+form {
+    margin: 0 auto;
 }
 
 /*hover color links*/
@@ -244,8 +247,10 @@ main {
       width: auto;
 
     }
-
-
+#booking
+{
+    margin: 0 auto;
+}
     h2 {
       color: whitesmoke;
       text-align: left;

@@ -23,8 +23,9 @@ export default () => html`
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+  <button type="submit">Send</button><br>
 </form>
+<br><br><br><br><br><br><br><br><br><br>
 
-  <h3>Paypal is used for processing payments</h3>
+  <h3>Paypal is used for processing payments</h3><br><br><br><br><br><br>
 `;

@@ -10,6 +10,7 @@ dotenv.config();
 
 const router = new Navigo(window.location.origin);
 
+/*allows the HTML code to show inside the specified element*/
 function render(st) {
   document.querySelector("#root").innerHTML = `
     ${Header(st)}
@@ -21,6 +22,7 @@ function render(st) {
   addEventListeners(st);
 }
 
+/*allows navigation between pages by clicking on each title in the nav menu*/
 function addEventListeners(st) {
   document.querySelectorAll("nav a").forEach(navLink =>
     navLink.addEventListener("click", event => {
@@ -29,6 +31,7 @@ function addEventListeners(st) {
     })
   );
 
+  //button for the coupon*
   if (st.view === "Cards") {
     document.getElementById("myBtn").addEventListener("click", function() {
       alert("Use code NEW for 10% off!");

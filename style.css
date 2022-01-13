@@ -65,8 +65,14 @@ color: palevioletred;
           display: none;
            }
       }
+.weather
+{
+    font-size: large;
+    margin: 0 auto;
 
-/*aligning the about section, border and word font*/
+
+}
+/*home page, page description*/
 .About {
 
     border: 8px solid black;
@@ -82,7 +88,7 @@ color: palevioletred;
     margin-left: 250px;
     margin: 0 auto;
     color: black;
-    background: lightgray;
+    background-image: url("assets/images/papel.jpg");
 }
 
 @media (max-width: 912px) {
@@ -93,11 +99,32 @@ color: palevioletred;
         width: 60%;
     }
 }
-
-#booking img {
+/* cards formation*/
+#cards img {
     margin: 0 auto;
 }
 
+.mental
+    {
+        list-style-type: none;
+        display: flex;
+        flex-direction: row;
+      }
+.greeting
+{
+    list-style-type: none;
+        display: flex;
+        flex-direction: row;
+}
+.romance
+{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    font-size: medium;
+}
+
+/*setting margins for mobile*/
 .About {
     margin: 0 auto;
 
@@ -146,13 +173,21 @@ margin: 0 auto;
 }
 
 /*hover color links*/
+a
+{
+    color: goldenrod;
+}
 a:hover {
     color:palevioletred;
+    font-size: larger;
 }
+
+
 
 body {
 
-    background-image: url("assets/images/stock1.jpg");;
+    background-image: url("assets/images/cardsbk.jpg");;
+
 }
 /*links to each page*/
 ul li {
@@ -193,29 +228,29 @@ main {
       background-color: white;
       text-align: center;
       font-family: Georgia, 'Times New Roman', Times, serif;
-      font-size: 20px;
+      font-size: 25px;
       border: dotted;
       border-color: palevioletred;
-      border-bottom-width: 5px;
+      border-width: 18px;
         padding: 10px;
+        background-image: url("assets/images/papel.jpg");
     }
 
-/*stats*/
-
-   .bio {
+/*alignment of bio on about page*/
+  .bio {
       text-align: center;
       font-family: Georgia, 'Times New Roman', Times, serif;
-      font-size: 15px;
+      font-size: 30px;
       width: auto;
 
     }
 
-/*asking*/
+
     h2 {
       color: whitesmoke;
       text-align: left;
       font-family: Georgia, 'Times New Roman', Times, serif;
-      font-size: 18px;
+      font-size: 22px;
     }
 /*website links*/
     .tube {

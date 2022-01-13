@@ -7,8 +7,11 @@ export default st => html`
   <h1><b>Our Story</b></h1>
 
   <main>
-    Weather in ${st.weather.city} ${kelvinToFahrenheit(st.weather.temp)}F, feels
-    like ${kelvinToFahrenheit(st.weather.feelsLike)}F
+    <div class="weather">
+      Weather in ${st.weather.city} ${kelvinToFahrenheit(st.weather.temp)}F,
+      feels like ${kelvinToFahrenheit(st.weather.feelsLike)}F
+    </div>
+    <br />
     <div class="About">
       The cards include poems from Kelby Estes-Nelson who is a published
       poet-author and has been performing poetry for over ten years.

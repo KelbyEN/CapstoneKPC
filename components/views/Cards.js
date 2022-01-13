@@ -5,7 +5,7 @@ import sprevent2 from "../../assets/images/sprevent2.jpg";
 import congratscheer from "../../assets/images/congratscheer.jpg";
 import happybdaysis from "../../assets/images/happybdaysis.jpg";
 import sympathy1 from "../../assets/images/sympathy1.jpg";
-import sympathy2 from "../../assets/images/sympathy2.jpg";
+import Thankyou1in from "../../assets/images/Thankyou1in.png";
 import Romanceking from "../../assets/images/Romanceking.jpg";
 import blueanniversary from "../../assets/images/blueanniversary.jpg";
 import numberone from "../../assets/images/numberone.jpg";
@@ -27,39 +27,53 @@ export default () => html`
 
    <div style="color: black;">
 
-   <div id="booking">
+   <div id="cards">
+     <p><h2>Mental Health</h2></p>
 
-   <img src=${anxiety} alt="anxiety" width=200x200/><br /><br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
+   <div class="mental">
+   <img src=${anxiety} alt="anxiety" width=300x300/><br>Anxiety<br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
 
-   <img src=${sprevent1} alt="sprevent1" width=200x200/><br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
+   <img src=${sprevent1} alt="sprevent1" width=300x300/><br>Prevention<br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
 
-   <img src=${sprevent2} alt="sprevent2" width=200x200/><br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
+   <img src=${sprevent2} alt="sprevent2" width=300x300/><br>Prevention2<br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
 
-   <img src=${congratscheer} alt="congratscheer" width=200x200/><br>Greeting $3.00 <br> For written expressions <br>  <br>
+   </div>
+   <p><h2>General Greetings</h2></p>
 
-   <img src=${happybdaysis} alt="congratscheer" width=200x200/><br>Greeting $3.00<br> For written expressions <br>
+   <div class="greeting">
 
-   <img src=${sympathy1} alt="sympathy1" width=200x200/><br>Greeting $3.00<br> For written expressions <br>
+   <img src=${congratscheer} alt="congratscheer" width=300x300/><br> Congrats Cheer<br>Greeting $3.00 <br> For written expressions <br>  <br>
 
-   <img src=${sympathy2} alt="sympathy2" width=200x200/><br>Greeting $3.00<br> For written expressions <br>
+     <img src=${happybdaysis} alt="happybdaysis" width=300x300/><br> Happy bday Sis<br>Greeting $3.00<br> For written expressions <br>
 
-   <img src=${Romanceking} alt="Romance King" width=200x200/><br>Romance $5.00<br> For those you share a bed with <br>
+   <img src=${sympathy1} alt="sympathy1" width=300x300/><br>Sympathy<br>Greeting $3.00<br> For written expressions <br>
 
-   <img src=${blueanniversary} alt="blue anniversary" width=200x200/><br>Romance $5.00<br> For those you share a bed with <br>
+   <img src=${Thankyou1in} alt="Thankyou" width=300x300/><br>Thank You<br>Greeting $3.00<br> For written expressions <br>
 
-   <img src=${numberone} alt="Number one" width=200x200/><br>Romance $5.00<br> For those you share a bed with <br>
+   </div>
 
-   <img src=${romancepuffs} alt="Romance Puffs" width=200x200/><br>Romance $5.00<br> For those you share a bed with <br><br><br><br>
+   <p><h2>Romance</h2></p>
+
+   <div class="romance">
+   <img src=${Romanceking} alt="Romance King" width=300x300/><br>Romance King<br>Romance $5.00<br> For those you share a bed with <br>
+
+   <img src=${blueanniversary} alt="blue anniversary" width=300x300/><br>Blue Anniversary<br>Romance $5.00<br> For those you share a bed with <br>
+
+   <img src=${numberone} alt="Number one" width=300x300/><br>Number One<br>Romance $5.00<br> For those you share a bed with <br>
+
+   <img src=${romancepuffs} alt="Romance Puffs" width=300x300/><<br>Romance Puffs<br>Romance $5.00<br> For those you share a bed with <br><br><br><br>
+   </div>
    </div>
 
    </div>
   </div>
+  <p><h2>Custom</h2></p>
 
 
 
 </section>
-
-<img src=${marketing1} alt="Marketing" width=200x200/><br>Custom $10.00 <br> For making it personal <br>
+<div class="custom">
+<img src=${marketing1} alt="Marketing" width=300x300/><br>Custom $10.00 <br> For making it personal <br></div>
 
 <form
   action="https://formspree.io/f/xrgjzyzy"

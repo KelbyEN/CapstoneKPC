@@ -62,11 +62,19 @@ export default () => html`
    <img src=${numberone} alt="Number one" width=300x300/><br>Number One<br>Romance $5.00<br> For those you share a bed with <br>
 
    <img src=${romancepuffs} alt="Romance Puffs" width=300x300/><<br>Romance Puffs<br>Romance $5.00<br> For those you share a bed with <br><br><br><br>
-   </div>
-   </div>
+
+
 
    </div>
   </div>
+
+  <h2>Virtual Cards</h2><br>
+
+  <video width="320" height="240" controls>
+  <source src="../../assets/videos/getwellsoon.mp4" type="video/mp4"><br>
+  <source src="../../assets/videos/happholidays.mp4" type="video/mp4"><br>
+</video>
+
   <p><h2>Custom</h2></p>
 
 

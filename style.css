@@ -255,6 +255,22 @@ main {
       font-family: Georgia, 'Times New Roman', Times, serif;
       font-size: 22px;
     }
+
+#facts
+{
+background-color: white;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 15px;
+border: line;
+border-color: palevioletred;
+border-width: 18px;
+  padding: 10px;
+  background-image: url("assets/images/papel.jpg");
+}
+
+
+
 /*website links*/
     .tube {
     text-align: center;

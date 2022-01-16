@@ -68,16 +68,7 @@ export default () => html`
    </div>
   </div>
 
-  <h2>Virtual Cards</h2><br>
-
-  <video width="320" height="240" controls>
-  <source src="../../assets/videos/getwellsoon.mp4" type="video/mp4"><br>
-  <source src="../../assets/videos/happholidays.mp4" type="video/mp4"><br>
-</video>
-
   <p><h2>Custom</h2></p>
-
-
 
 </section>
 <div class="custom">

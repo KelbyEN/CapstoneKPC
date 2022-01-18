@@ -29,7 +29,9 @@ export default () => html`
 
    <div id="cards">
      <p><h2>Mental Health</h2></p>
-
+     <p>If you or someone you know need immediate help,please call the National Suicide prevention
+Line 800.273.TALK (8255) Or text BC2M to the Crisis Line at 741741
+<br></p>
    <div class="mental">
    <img src=${anxiety} alt="anxiety" width=300x300/><br>Anxiety<br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
 

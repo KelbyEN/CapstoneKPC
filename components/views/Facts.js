@@ -9,6 +9,8 @@ export default () => html`
     receive them.<br />
     Our mission is to encourage compliments, consideration and empathy!
   </h3>
+  <p>"We Rise by Lifting Others"
+-Robert Ingersoll</p>
 
   <img src=${Katdedication} alt="anxiety" width="500x500" /><br />
   <p>

@@ -20,7 +20,7 @@ export default () => html`
     <section id="jumbotron">
 
     <button id="myBtn"
-      >"Add to Cart!" </button>
+      >"Coupon!" </button>
     <br><br>
 
   </section>

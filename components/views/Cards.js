@@ -1,15 +1,17 @@
 import html from "html-literal";
 import anxiety from "../../assets/images/anxiety.jpg";
+// import anxietyin from "../../assets/images/anxietyin.jpg";
 import sprevent1 from "../../assets/images/sprevent1.jpg";
 import sprevent2 from "../../assets/images/sprevent2.jpg";
 import congratscheer from "../../assets/images/congratscheer.jpg";
-import happybdaysis from "../../assets/images/happybdaysis.jpg";
+import happybdaysis from "../../assets/images/happybdaysis.png";
 import sympathy1 from "../../assets/images/sympathy1.jpg";
-import Thankyou1in from "../../assets/images/Thankyou1in.png";
+import Thankyou1 from "../../assets/images/Thankyou1.png";
 import Romanceking from "../../assets/images/Romanceking.jpg";
 import blueanniversary from "../../assets/images/blueanniversary.jpg";
 import numberone from "../../assets/images/numberone.jpg";
 import romancepuffs from "../../assets/images/romancepuffs.jpg";
+import hbdwife from "../../assets/images/hbdwife.png";
 import marketing1 from "../../assets/images/marketing1.jpg";
 export default () => html`
 
@@ -33,24 +35,25 @@ export default () => html`
 Line 800.273.TALK (8255) Or text BC2M to the Crisis Line at 741741
 <br></p>
    <div class="mental">
-   <img src=${anxiety} alt="anxiety" width=300x300/><br>Anxiety<br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
+
+   <img src=${anxiety} alt="anxiety" width=300x300/><br>Anxiety<br>Mental Health $3.00 <br> For life's mental and emotional challenges <br>
 
    <img src=${sprevent1} alt="sprevent1" width=300x300/><br>Prevention<br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
 
    <img src=${sprevent2} alt="sprevent2" width=300x300/><br>Prevention2<br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
+</div>
 
-   </div>
    <p><h2>General Greetings</h2></p>
 
    <div class="greeting">
 
    <img src=${congratscheer} alt="congratscheer" width=300x300/><br> Congrats Cheer<br>Greeting $3.00 <br> For written expressions <br>  <br>
 
-     <img src=${happybdaysis} alt="happybdaysis" width=300x300/><br> Happy bday Sis<br>Greeting $3.00<br> For written expressions <br>
+     <img src=${sympathy1} alt="sympathy1" width=300x300/><br>Sympathy<br>Greeting $3.00<br> For written expressions <br>
 
-   <img src=${sympathy1} alt="sympathy1" width=300x300/><br>Sympathy<br>Greeting $3.00<br> For written expressions <br>
+   <img src=${Thankyou1} alt="Thankyou" width=300x300/><br>Thank You<br>Greeting $3.00<br> For written expressions <br>
 
-   <img src=${Thankyou1in} alt="Thankyou" width=300x300/><br>Thank You<br>Greeting $3.00<br> For written expressions <br>
+   <img src=${happybdaysis} alt="happybdaysis" width=420x300/><br> Happy bday Sis<br>Greeting $3.00<br> For written expressions <br>
 
    </div>
 
@@ -63,8 +66,10 @@ Line 800.273.TALK (8255) Or text BC2M to the Crisis Line at 741741
 
    <img src=${numberone} alt="Number one" width=300x300/><br>Number One<br>Romance $5.00<br> For those you share a bed with <br>
 
-   <img src=${romancepuffs} alt="Romance Puffs" width=300x300/><<br>Romance Puffs<br>Romance $5.00<br> For those you share a bed with <br><br><br><br>
+   <img src=${hbdwife} alt="Happy Bday Wife" width=300x300/><<br>Romance Puffs<br>Romance $5.00<br> For those you share a bed with <br><br><br><br>
 
+   <img src=${romancepuffs} alt="Romance Puffs" width=420x300/><<br>Romance Puffs<br>Romance $5.00<br> For those you share a bed with <br><br><br><br>
+   </div>
 
 
    </div>

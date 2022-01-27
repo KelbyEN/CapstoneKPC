@@ -110,6 +110,8 @@ color: palevioletred;
         display: flex;
         flex-direction: row;
       }
+/*show the inside of the card when you hover*/
+
 .greeting
 {
     list-style-type: none;
@@ -255,6 +257,7 @@ main {
       font-family: Georgia, 'Times New Roman', Times, serif;
       font-size: 22px;
     }
+
 
 #facts
 {

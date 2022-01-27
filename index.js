@@ -38,6 +38,12 @@ function addEventListeners(st) {
     });
   }
 
+  //   if (st.view === "Cards") {
+  //     var image = (document.getElementById("myBtna").src = "anxietyin.jpg");
+  //     alert("OnLoad image" + assets / images / anxietyin.jpg);
+  //   }
+  // }
+
   // add menu toggle to bars icon in nav bar
   document
     .querySelector(".fa-bars")
@@ -45,7 +51,6 @@ function addEventListeners(st) {
       document.querySelector("nav > ul").classList.toggle("hidden--mobile")
     );
 }
-
 //  ADD ROUTER HOOKS HERE ...
 router.hooks({
   before: (done, params) => {

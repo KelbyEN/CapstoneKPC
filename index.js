@@ -80,7 +80,7 @@ router.hooks({
 router
   .on({
     "/": () => render(state.Home),
-    ":view": params => {
+    ":page": params => {
       let page = capitalize(params.page);
       render(state[page]);
     }

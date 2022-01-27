@@ -68,10 +68,8 @@ Line 800.273.TALK (8255) Or text BC2M to the Crisis Line at 741741
 
    <img src=${hbdwife} alt="Happy Bday Wife" width=300x300/><<br>Romance Puffs<br>Romance $5.00<br> For those you share a bed with <br><br><br><br>
 
-   <tr>
-
    <img src=${romancepuffs} alt="Romance Puffs" width=420x300/><<br>Romance Puffs<br>Romance $5.00<br> For those you share a bed with
-   </tr>
+
 
    </div>
 

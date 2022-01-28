@@ -290,6 +290,12 @@ border-width: 18px;
 cursor: pointer;
 }
 
+img.greeting
+{
+    width: fit fit-content;
+
+}
+
 footer {
     text-align: center;
     background-color: whitesmoke;

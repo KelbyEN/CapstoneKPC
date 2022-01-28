@@ -20,6 +20,7 @@ export default () => html`
     <h1>Take a look at our cards!</h1>
 
     <section id="jumbotron">
+      </div>
 
     <button id="myBtn"
       >"Coupon!" </button>
@@ -27,9 +28,7 @@ export default () => html`
 
   </section>
 
-   <div style="color: black;">
-
-   <div id="cards">
+     <div id="cards">
      <p><h2>Mental Health</h2></p>
      <p>If you or someone you know need immediate help,please call the National Suicide prevention
 Line 800.273.TALK (8255) Or text BC2M to the Crisis Line at 741741
@@ -72,10 +71,8 @@ Line 800.273.TALK (8255) Or text BC2M to the Crisis Line at 741741
 
 
    </div>
-
-
    </div>
-  </div>
+
 
   <p><h2>Custom</h2></p>
 

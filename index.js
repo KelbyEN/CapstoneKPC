@@ -21,7 +21,6 @@ function render(st) {
   router.updatePageLinks();
   addEventListeners(st);
 }
-
 /*allows navigation between pages by clicking on each title in the nav menu*/
 function addEventListeners(st) {
   document.querySelectorAll("nav a").forEach(navLink =>
@@ -31,26 +30,27 @@ function addEventListeners(st) {
     })
   );
 
-  //button for the coupon*
-  if (st.view === "Cards") {
-    document.getElementById("myBtn").addEventListener("click", function() {
-      alert("Use code NEW for 10% off!");
-    });
-  }
 
-  //   if (st.view === "Cards") {
-  //     var image = (document.getElementById("myBtna").src = "anxietyin.jpg");
-  //     alert("OnLoad image" + assets / images / anxietyin.jpg);
-  //   }
-  // }
+//button for the coupon*
+if (st.view === "Cards") {
+  document.getElementById("myBtn").addEventListener("click", function() {
+    alert("Use code NEW for 10% off!");
+  });
 
-  // add menu toggle to bars icon in nav bar
-  document
-    .querySelector(".fa-bars")
-    .addEventListener("click", () =>
-      document.querySelector("nav > ul").classList.toggle("hidden--mobile")
-    );
+//   if (st.view === "Cards") {
+//     var image = (document.getElementById("myBtna").src = "anxietyin.jpg");
+//     alert("OnLoad image" + assets / images / anxietyin.jpg);
+//   }
+//
+
+// add menu toggle to bars icon in nav bar
+document
+  .querySelector(".fa-bars")
+  .addEventListener("click", () =>
+    document.querySelector("nav > ul").classList.toggle("hidden--mobile")
+  );
 }
+
 //  ADD ROUTER HOOKS HERE ...
 router.hooks({
   before: (done, params) => {

@@ -1,6 +1,6 @@
 import html from "html-literal";
 import Book1 from "../../assets/images/poeticphotos.jpg";
-import poeticanxiety from "../../assets/images/poeticanxiety.jpg";
+import PoeticAnxiety from "../../assets/images/PoeticAnxiety.jpg";
 
 export default () => html`
   <section id="books">
@@ -27,7 +27,7 @@ export default () => html`
       ><br /><br /><br /><br /><br />
 
       <h3><b>Poetic Anxiety</b><br />
-      <img src=${poeticanxiety} alt="Poetic Anxiety" width=400x400/><br><i>by Kelby Alese</i><br /><br /></h3>
+      <img src=${PoeticAnxiety} alt="Poetic Anxiety" width=400x400/><br><i>by Kelby Alese</i><br /><br /></h3>
       <h1><i>Coming Soon!</i></h1>
     </p><br>
 

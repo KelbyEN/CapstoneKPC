@@ -11,7 +11,7 @@ import Romanceking from "../../assets/images/Romanceking.jpg";
 import blueanniversary from "../../assets/images/blueanniversary.jpg";
 import numberone from "../../assets/images/numberone.jpg";
 import romancepuffs from "../../assets/images/romancepuffs.jpg";
-import hbdwife from "../../assets/images/hbdwife.png";
+import Hbdwife from "../../assets/images/Hbdwife.png";
 import marketing1 from "../../assets/images/marketing1.jpg";
 export default () => html`
 
@@ -65,7 +65,7 @@ Line 800.273.TALK (8255) Or text BC2M to the Crisis Line at 741741
 
    <img src=${numberone} alt="Number one" width=300x300/><br>Number One<br>Romance $5.00<br> For those you share a bed with <br>
 
-   <img src=${hbdwife} alt="Happy Bday Wife" width=300x300/><br>Romance Puffs<br>Romance $5.00<br> For those you share a bed with <br><br><br><br>
+   <img src=${Hbdwife} alt="Happy Bday Wife" width=300x300/><br>Romance Puffs<br>Romance $5.00<br> For those you share a bed with <br><br><br><br>
 
    <img src=${romancepuffs} alt="Romance Puffs" width=420x300/><br>Romance Puffs<br>Romance $5.00<br> For those you share a bed with
 

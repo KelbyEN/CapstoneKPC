@@ -127,9 +127,20 @@ color: palevioletred;
     font-size: medium;
 }
 
+.custom
+{
+ color:antiquewhite
+}
+/*cards mobile*/
+@media (max-width: 731px) {
+    .About {
+        margin: 0 auto;
+    }
+}
 /*setting margins for mobile*/
 .About {
     margin: 0 auto;
+
 
 }
 
@@ -177,8 +188,11 @@ border-style: double;
     margin-left: 350px;
 }
 
-form {
-    margin: 0 auto;
+@media (max-width: 731px) {
+    form {
+        margin: 0 auto;
+        text-align: center;
+    }
 }
 
 /*hover color links*/
@@ -220,7 +234,13 @@ main {
         font-size: 20px;
     }
 
-
+    .week
+    {
+        border: black;
+        border-width: 731px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        background-image: url("assets/images/papel.jpg");
+    }
 
     /*top of the page*/
 

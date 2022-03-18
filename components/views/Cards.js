@@ -27,6 +27,8 @@ export default () => html`
     <br><br>
 
   </section>
+  <div id="mothersday">
+    <h4>Mothers Day cards and baskets coming soon! Use code "Fav Lady" starting April 15th to get 10% off</P> </div>
 
      <div id="cards">
      <p><h2>Mental Health</h2></p>

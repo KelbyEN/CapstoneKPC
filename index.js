@@ -37,6 +37,15 @@ function addEventListeners(st) {
       alert("Use code NEW for 10% off!");
     });
   }
+  // button for feature//
+  const button = document.querySelector(".btn");
+  button.addEventListener("click", () => {
+    button.classList.toggle("liked");
+  });
+
+  var clicks = 14;
+
+  document.getElementById("clicks").innerHTML = clicks;
 
   // add menu toggle to bars icon in nav bar
   document

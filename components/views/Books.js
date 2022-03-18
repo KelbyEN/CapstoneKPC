@@ -194,6 +194,21 @@ But you think Im better than you<br>
 -Mack The Poet
 </p>
 
+<button class="btn btn-like">
+    <span class="btn-icon btn--icon-default">
+        <span class="fa fa-heart"></span>
+    </span>
+    <span class="btn-icon btn--icon-liked">
+        <span class="fa fa-heart"></span>
+    </span>
+    <span class="btn-content  btn-content--liked">
+        Liked
+    </span>
+    <span class="btn-content btn-content--default">
+        Like
+    </span>
+</button>
+
     <h4 font size=18px>Want to feature your poem here?<br>
   Email us and include your poem, name, and contact information</>
   </section>

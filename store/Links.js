@@ -4,5 +4,6 @@ export default [
   { title: "Books", text: "Books" },
   { title: "Cards", text: "Cards" },
   { title: "Cart", text: "Cart" },
-  { title: "Facts", text: "Facts" }
+  { title: "Facts", text: "Facts" },
+  { title: "Feature", text: "Feature" }
 ];

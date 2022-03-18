@@ -178,7 +178,9 @@ form {
 border-width: 14px;
 border-style: double;
     text-align: center;
-    font-size: xx-large;
+    font-size: x-large;
+    color:#fff;
+    text-shadow: #666;
     font-family: Georgia, 'Times New Roman', Times, serif;
     height: 300px;
     width: 55%;
@@ -204,7 +206,7 @@ a:hover {
     color:palevioletred;
     font-size: larger;
 }
-
+/*like btn*/
 :root {
     --pink: pink;
     --white: #fff;

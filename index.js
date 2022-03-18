@@ -31,21 +31,18 @@ function addEventListeners(st) {
     })
   );
 
+  // // button for feature//
+  // const button = document.querySelector(".btn");
+  // button.addEventListener("click", () => {
+  //   button.classList.toggle("liked");
+  // });
+
   //button for the coupon*
   if (st.view === "Cards") {
     document.getElementById("myBtn").addEventListener("click", function() {
       alert("Use code NEW for 10% off!");
     });
   }
-  // button for feature//
-  const button = document.querySelector(".btn");
-  button.addEventListener("click", () => {
-    button.classList.toggle("liked");
-  });
-
-  var clicks = 14;
-
-  document.getElementById("clicks").innerHTML = clicks;
 
   // add menu toggle to bars icon in nav bar
   document

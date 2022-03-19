@@ -1,9 +1,10 @@
 import html from "html-literal";
+import mackthepoet from "../../assets/images/mackthepoet.jpg";
 export default () => html`
 
 
 <section class=poem>
-      <h4><u>Poem of the Week</u></h4>
+      <h1><u>Poem of the Month</u></h1>
       <p class=week> Title: How you better than me? <br>
       <br>
 
@@ -179,6 +180,12 @@ But you think Im better than you<br>
         Like
     </span>
 </button>
+
+<p>For booking Mack The Poet:<br>
+<img src=${mackthepoet} alt="anxiety" width="500x500" /><br />
+<li>email:Mackgore2001@gmail.com</li>
+<li>phone: 314-498-6050</li>
+</p>
 
     <h4 font size=18px>Want to feature your poem here?<br>
   Email us and include your poem, name, and contact information</>

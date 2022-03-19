@@ -5,8 +5,8 @@ export default () => html`
 
 
   <section id="about">
-<h1>Kelby Alese the Poet<br>
-</h1>
+<h1>Kelby Alese the Poet
+</h1><br>
 
 <div id="booking">
 <img src=${pphotos} alt="Pphotos" width=500x500/><br />

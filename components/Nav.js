@@ -31,7 +31,6 @@ export default links => html`
   </div>
 </div>
 
-      </ul>
-    </section>
+
   </nav>
 `;

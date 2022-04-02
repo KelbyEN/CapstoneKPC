@@ -13,11 +13,12 @@ import numberone from "../../assets/images/numberone.jpg";
 import romancepuffs from "../../assets/images/romancepuffs.jpg";
 import Hbdwife from "../../assets/images/Hbdwife.png";
 import marketing1 from "../../assets/images/marketing1.jpg";
+import Hbdwifein from "../../assets/images/Hbdwifein.png";
 export default () => html`
 
 <section>
   <div class="w3-container">
-    <h1>Take a look at our cards!</h1>
+    <h1>Take a look at our cards!</h1><br>
 
     <section id="jumbotron">
       </div>
@@ -29,6 +30,8 @@ export default () => html`
   </section>
   <div id="mothersday">
     <h4>Mothers Day cards and baskets coming soon! Use code "Fav Lady" starting April 15th to get 10% off</P> </div>
+
+<div id="read"> <p>Please read the carts page to place an order<p></div><br>
 
      <div id="cards">
      <p><h2>Mental Health</h2></p>
@@ -74,6 +77,7 @@ Line 800.273.TALK (8255) Or text BC2M to the Crisis Line at 741741
 
    </div>
    </div>
+
 
 
   <p><h2>Custom</h2></p>

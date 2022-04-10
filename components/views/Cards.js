@@ -89,19 +89,20 @@ Line 800.273.TALK (8255) Or text BC2M to the Crisis Line at 741741
 
    <p><h2>General Greetings</h2></p>
 
-      <ul><img src=${congratscheer} alt="congratscheer" width=300x300/><br> Congrats Cheer <br> Greeting $3.00 <br> For written expressions <br>  <br>
+      <ul><a href="https://drive.google.com/file/d/1VEFbHJ59t_9jyw15I2Xch8nJdAizDrSR/view?usp=sharing" target="_blank"><img src=${congratscheer} alt="congratscheer" width=300x300/><br> Congrats Cheer <br> Greeting $3.00 <br> For written expressions <br>  <br></a>
    </ul>
 
    <ul>
-     <img src=${sympathy1} alt="sympathy1" width=300x300/><br>Sympathy<br>Greeting $3.00<br> For written expressions <br>
+     <a href="https://drive.google.com/file/d/1VEFbHJ59t_9jyw15I2Xch8nJdAizDrSR/view?usp=sharing" target="_blank">
+     <img src=${sympathy1} alt="sympathy1" width=300x300/><br>Sympathy<br>Greeting $3.00<br> For written expressions <br></a>
      </ul>
 
-     <ul>
-   <img src=${Thankyou1} alt="Thankyou" width=300x300/><br>Thank You<br>Greeting $3.00<br> For written expressions <br>
+     <ul><a href="https://drive.google.com/file/d/1VVQ2ckW1tcYlomSl4wY6nPnvT3LOVad1/view?usp=sharing" target="_blank">
+   <img src=${Thankyou1} alt="Thankyou" width=300x300/><br>Thank You<br>Greeting $3.00<br> For written expressions <br></a>
    </ul>
 
-   <ul>
-   <img src=${happybdaysis} alt="happybdaysis" width=420x300/><br> Happy bday Sis<br>Greeting $3.00<br> For written expressions <br>
+   <ul><a href="https://drive.google.com/file/d/1ywuh29H2jUoulhuiVAevunJk-nmKF7A9/view?usp=sharing" target="_blank">
+   <img src=${happybdaysis} alt="happybdaysis" width=420x300/><br> Happy bday Sis<br>Greeting $3.00<br> For written expressions <br></a>
    </ul>
 
    </div>
@@ -109,11 +110,12 @@ Line 800.273.TALK (8255) Or text BC2M to the Crisis Line at 741741
    <p><h2>Romance</h2></p>
 
 <ul>
-   <img src=${Romanceking} alt="Romance King" width=300x300/><br>Romance King<br>Romance $5.00<br> For those you share a bed with <br>
+<a href="https://drive.google.com/file/d/1V0L2DH9Ko_epBmDS7o3gmoAtZOG5jINg/view?usp=sharing" target="_blank">
+   <img src=${Romanceking} alt="Romance King" width=300x300/><br>Romance King<br>Romance $5.00<br> For those you share a bed with <br></a>
    </ul>
 
    <ul>
-   <img src=${blueanniversary} alt="blue anniversary" width=300x300/><br>Blue Anniversary<br>Romance $5.00<br> For those you share a bed with <br>
+   <a href="https://drive.google.com/file/d/1V0L2DH9Ko_epBmDS7o3gmoAtZOG5jINg/view?usp=sharing" target="_blank"><img src=${blueanniversary} alt="blue anniversary" width=300x300/><br>Blue Anniversary<br>Romance $5.00<br> For those you share a bed with <br></a>
 </ul>
 
 <ul>

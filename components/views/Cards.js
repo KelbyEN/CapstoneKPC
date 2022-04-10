@@ -15,7 +15,7 @@ import Hbdwife from "../../assets/images/Hbdwife.png";
 import marketing1 from "../../assets/images/marketing1.jpg";
 // import Hbdwifein from "../../assets/images/Hbdwifein.png";
 // import Queen from "../../assets/images/Queen.jpg";
-import Queenb from "../../assets/images/Queenb.jpg";
+import queenb from "../../assets/images/queenb.jpg";
 import mom from "../../assets/images/mom.jpg";
 import greenmom from "../../assets/images/greenmom.jpg";
 import hero from "../../assets/images/hero.jpg";
@@ -38,7 +38,7 @@ export default () => html`
   <div id="mothersday">
     <h4>Mothers Day cards and baskets coming soon! Use code "Fav Lady" starting April 15th to get 10% off</P>
     <ul>
-    <img src=${Queenb} alt="mothersday" width=300x300/><br> Queen <br> Seasonal $5.00 <br> Celebrating mother figures <br>
+    <img src=${queenb} alt="mothersday" width=300x300/><br> Queen <br> Seasonal $5.00 <br> Celebrating mother figures <br>
   </ul>
 
   <ul>

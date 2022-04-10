@@ -1,6 +1,13 @@
 import html from "html-literal";
 import yaneebrinks from "../../assets/images/yaneebrinks.jpg";
+import BlackAuthorsExpo from "../../assets/images/BlackAuthorsExpo.png";
 export default () => html`
+
+<section class=events>
+<h1>Upcoming Events</h1>
+<img src=${BlackAuthorsExpo} alt="anxiety" width="300x300" /><br />
+<p>KittyPinkCards will have Mothers's Day baskets and cards for sale as well as access to purchase PoeticPhotos</p>
+</section>
 
 
 <section class=poem>
@@ -61,11 +68,11 @@ Love, Hurt, & Heartache © 2022 by Yanee Brinks is licensed under CC BY-NC-ND 4.
 </button>
 
 <h4>For booking Yanee Brinks:<br>
-<img src=${yaneebrinks} alt="anxiety" width="500x500" /><br />
-<li>www.YaneeBrinks.net<li>
-<li>Amazon.com/author/yaneebrinks<li>
-<li>www.Savageauthors.com<li>
-<li>www.Facebook.com/AuthorYanee</li>
+<img src=${yaneebrinks} alt="anxiety" width="300x300" /><br />
+<ul>www.YaneeBrinks.net</ul>
+<ul>Amazon.com/author/yaneebrinks</ul>
+<ul>www.Savageauthors.com</ul>
+<ul>www.Facebook.com/AuthorYanee</ul>
 
 </h4>
 

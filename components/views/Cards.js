@@ -34,55 +34,58 @@ export default () => html`
       >"Coupon!" </button>
     <br><br>
 
+
+
   </section>
   <div id="mothersday">
     <h4>Mothers Day cards and baskets coming soon! Use code "Fav Lady" starting April 15th to get 10% off</P>
+
+    <div id="read"> <p>Please read the carts page to place an order<p></div><br>
+
+    <div id="cards">
+
     <ul>
-    <img src=${queenb} alt="mothersday" width=300x300/><br> Queen <br> Seasonal $5.00 <br> Celebrating mother figures <br>
+    <a href="https://drive.google.com/file/d/1aFthXAHi2ONo3HTTsLGOMgrm_JwTHvPA/view?usp=sharing" target="_blank"><img src=${queenb} alt="mothersday" width=300x300/><br> Queen <br> Seasonal $5.00 <br> Celebrating mother figures <br></a>
   </ul>
 
   <ul>
-  <!-- <a href="https://drive.google.com/file/d/1W0ZG3MjO2LW8GqLcu-MSd_40k8VNnnru/view?usp=sharing"
-        target="_blank"> -->
+  <a href="https://drive.google.com/file/d/1W0ZG3MjO2LW8GqLcu-MSd_40k8VNnnru/view?usp=sharing"
+        target="_blank">
     <img src=${mom} alt="mothersday" width=300x300><br> Mom <br> Seasonal $5.00 <br> Celebrating mother figures
   </ul>
 
    <ul>
-    <img src=${greenmom} alt="mothersday" width=300x300/><br> Stylish mom <br> Seasonal $5.00 <br> Celebrating mother figures <br>
+    <a href="https://drive.google.com/file/d/1aGrIjPWkLhW6wPq9mdRBJG_L9Ll3sARU/view?usp=sharing" target="_blank"><img src=${greenmom} alt="mothersday" width=300x300/><br> Stylish mom <br> Seasonal $5.00 <br> Celebrating mother figures <br></a>
   </ul>
 
   <ul>
-    <img src=${hero} alt="mothersday" width=300x300/><br> Mothers Day <br> Seasonal $5.00 <br> Celebrating mother figures <br>
+    <a href="https://drive.google.com/file/d/1d2Sq47XCd8rarFJOra37tKrP_Ofd1zmj/view?usp=sharing" target="_blank">
+    <img src=${hero} alt="mothersday" width=300x300/><br> Hero <br> Seasonal $5.00 <br> Celebrating mother figures <br></a>
   </ul>
 
   <ul>
-    <img src=${grandma} alt="mothersday" width=300x300/><br> Mothers Day <br> Seasonal $5.00 <br> Celebrating mother figures <br>
+    <a href="https://drive.google.com/file/d/1aFthXAHi2ONo3HTTsLGOMgrm_JwTHvPA/view?usp=sharing" target="_blank">
+    <img src=${grandma} alt="mothersday" width=300x300/><br> Grandma <br> Seasonal $5.00 <br> Celebrating mother figures <br></a>
   </ul>
 
-  </div>
-
-<div id="read"> <p>Please read the carts page to place an order<p></div><br>
-
-     <div id="cards">
-
-     <p><h2>Mental Health</h2></p>
+          <p><h2>Mental Health</h2></p>
 
      <ul>If you or someone you know need immediate help,please call the National Suicide prevention
 Line 800.273.TALK (8255) Or text BC2M to the Crisis Line at 741741
 <br></ul>
 
 <ul>
-   <img src=${anxiety} alt="anxiety" width=300x300/><br> Anxiety <br> Mental Health $3.00 <br> For life's mental and emotional challenges <br>
+   <img src=${anxiety} alt="anxiety" width=300x300/><br> Anxiety <br> Mental Health $3.00 <br> For life's mental and emotional challenges
 </ul><br>
 
 <ul>
-   <img src=${sprevent1} alt="sprevent1" width=300x300/><br> Prevention <br> Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
+   <img src=${sprevent1} alt="sprevent1" width=300x300/><br> Prevention <br> Mental Health $3.00 <br> For life's mental and emotional challenges
    </ul><br>
 
    <ul>
    <img src=${sprevent2} alt="sprevent2" width=300x300/><br> Prevention2 <br>Mental Health $3.00 <br> For life's mental and emotional challenges  <br>
   </ul><br>
-</div>
+
 
    <p><h2>General Greetings</h2></p>
 

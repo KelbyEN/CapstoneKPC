@@ -6,6 +6,11 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     }
 
+h2 {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
     /* The image used for the banner */
 header {
 background-image: url("assets/images/kpclogo.jpg");
@@ -152,22 +157,7 @@ color: palevioletred;
         transform: scale(1);
       }
 
-      /* nav a {
-
-        color: #0f0f0f;
-        text-align: left;
-        padding: 14px 16px;
-        font-size: 30px;
-              }
-
-      nav ul {
-        list-style-type: none;
-        display: flex;
-        flex-direction: row;
-      }
-
-
-      @media (min-width: 550px) {
+        /* @media (min-width: 550px) {
         nav > .fa-bars {
           display: inline;
                   }

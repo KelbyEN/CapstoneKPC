@@ -1,11 +1,12 @@
 import html from "html-literal";
 import ChrisKaiser from "../../assets/images/ChrisKaiser.jpg";
 import BlackAuthorsExpo from "../../assets/images/BlackAuthorsExpo.png";
+import TheCouplesPlaydate from "../../assets/images/TheCouplesPlaydate.jpg";
 export default () => html`
 
 <section class=events>
 <h1>Upcoming Events</h1>
-<img src=${BlackAuthorsExpo} alt="anxiety" width="300x300" /><br />
+<img src=${BlackAuthorsExpo} alt="anxiety" width="500x500" /><br />
 <p>KittyPinkCards will have Mothers's Day baskets and cards for sale as well as access to purchase PoeticPhotos</p>
 </section>
 
@@ -61,11 +62,21 @@ Allowing us to be something beyond a crush<br>
 </button>
 
 <h4>For booking Chris:<br>
-<img src=${ChrisKaiser} alt="anxiety" width="400x400" /><br />
+<img src=${ChrisKaiser} alt="anxiety" width="450x450" /><br />
 </h4>
 
     <h4 font size=18px>Want to feature your poem here?<br>
   Email us and include your poem, name, and contact information</>
+
+  <h4>Past Events</h4>
+
+<p><h4>The Couples Playdate<br>
+This was so much fun! Thecouplesplaydate.com for more info
+<br>
+<ul><a href="https://drive.google.com/drive/u/1/folders/16M64luy1Rw8EvI_s1tk-x-HFDnZAheQ7" target="popup">
+    <img src=${TheCouplesPlaydate} alt="The Couples Playdate Event" width=500x500/>
+   </ul></h4><br>Click for event pictures<br></a>
+   </p>
   </section>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
   </section>

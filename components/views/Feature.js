@@ -46,31 +46,26 @@ A four of a kind<br>
 Allowing us to be something beyond a crush<br>
 </p>
 
-<button class="btn btn-like">
-    <span class="btn-icon btn--icon-default">
-        <span class="fa fa-heart"></span>
-    </span>
-    <span class="btn-icon btn--icon-liked">
-        <span class="fa fa-heart"></span>
-    </span>
-    <span class="btn-content  btn-content--liked">
-        Liked
-    </span>
-    <span class="btn-content btn-content--default">
-        Like
-    </span>
-</button>
-
 <h4>For booking Chris:<br>
 <img src=${ChrisKaiser} alt="anxiety" width="450x450" /><br />
 </h4>
+
+<h4>If you liked this poem let the Poet know by commenting below!</h4>
+<div id="comment"><input type="text" id="comment-box" placeholder="Enter comment">
+    <button id="post">Post</button>
+    <ul id="unordered">
+
+   </ul>
+
+    <script src="code.js"></script>
+    </div>
 
     <h4 font size=18px>Want to feature your poem here?<br>
   Email us and include your poem, name, and contact information</>
 
   <h4>Past Events</h4>
 
-<p><h4>The Couples Playdate<br>
+<p><h1>The Couples Playdate<br>
 This was so much fun! Thecouplesplaydate.com for more info
 <br>
 <ul><a href="https://drive.google.com/drive/u/1/folders/16M64luy1Rw8EvI_s1tk-x-HFDnZAheQ7" target="popup">

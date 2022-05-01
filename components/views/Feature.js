@@ -61,7 +61,7 @@ Allowing us to be something beyond a crush<br>
     </div>
 
     <h4 font size=18px>Want to feature your poem here?<br>
-  Email us and include your poem, name, and contact information</>
+  Email us and include your poem, name, and contact information</h4>
 
   <h4>Past Events</h4>
 

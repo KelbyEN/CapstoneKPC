@@ -6,7 +6,7 @@ export default () => html`
 
 <section class=events>
 <h1>Upcoming Events</h1>
-<img src=${BlackAuthorsExpo} alt="anxiety" width="500x500" /><br />
+<img src=${BlackAuthorsExpo} alt="anxiety" width="400x400" /><br />
 <p>KittyPinkCards will have Mothers's Day baskets and cards for sale as well as access to purchase PoeticPhotos</p>
 </section>
 
@@ -49,8 +49,9 @@ Allowing us to be something beyond a crush<br>
 <h4>For booking Chris:<br>
 <img src=${ChrisKaiser} alt="anxiety" width="450x450" /><br />
 </h4>
-
+<!--
 <h4>If you liked this poem let the Poet know by commenting below!</h4>
+
 <div id="comment"><input type="text" id="comment-box" placeholder="Enter comment">
     <button id="post">Post</button>
     <ul id="unordered">
@@ -58,7 +59,7 @@ Allowing us to be something beyond a crush<br>
    </ul>
 
     <script src="code.js"></script>
-    </div>
+    </div> -->
 
     <h4 font size=18px>Want to feature your poem here?<br>
   Email us and include your poem, name, and contact information</h4>
@@ -69,7 +70,7 @@ Allowing us to be something beyond a crush<br>
 This was so much fun! Thecouplesplaydate.com for more info
 <br>
 <ul><a href="https://drive.google.com/drive/u/1/folders/16M64luy1Rw8EvI_s1tk-x-HFDnZAheQ7" target="popup">
-    <img src=${TheCouplesPlaydate} alt="The Couples Playdate Event" width=500x500/>
+    <img src=${TheCouplesPlaydate} alt="The Couples Playdate Event" width=400x400/>
    </ul></h4><br>Click for event pictures<br></a>
    </p>
   </section>

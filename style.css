@@ -501,7 +501,7 @@ li img {
   }
 } */
 
-div.comment
+/* div.comment
 {
   background: dodgerblue linear-gradient(45deg, aqua, dodgerblue, deeppink) fixed;
 
@@ -512,7 +512,7 @@ div.comment
 }
 #post:hover{
   background-color: deeppink;
-}
+} */
 
 /* Bottom of page */
 footer {

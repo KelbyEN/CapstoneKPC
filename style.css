@@ -501,6 +501,14 @@ li img {
   }
 } */
 
+#flowers
+{
+  font-style:bold;
+  color: black;
+  font-size: large;
+ background-image: url("assets/images/flowers1.jpg");
+ background-size: contain;
+}
 /* div.comment
 {
   background: dodgerblue linear-gradient(45deg, aqua, dodgerblue, deeppink) fixed;

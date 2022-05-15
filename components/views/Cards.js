@@ -53,7 +53,7 @@ export default () => html`
   <ul>
   <a href="https://drive.google.com/file/d/1Dr3AAxzdh32P1CWGK8mNHyPoci6BUxUI/view?usp=sharing"
         target="_blank">
-    <img src=${dad} alt="fathersday" width=300x300><br> Dad <br> Seasonal $5.00 <br> Celebrating father figures
+    <img src=${dad} alt="fathersday" width=300x300><br> Dad <br> Seasonal $5.00 <br> Celebrating father figures<br></a>
   </ul>
 
    <ul>

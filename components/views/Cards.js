@@ -15,11 +15,13 @@ import Hbdwife from "../../assets/images/Hbdwife.png";
 import marketing1 from "../../assets/images/marketing1.jpg";
 // import Hbdwifein from "../../assets/images/Hbdwifein.png";
 // import Queen from "../../assets/images/Queen.jpg";
-import queenb from "../../assets/images/queenb.jpg";
-import mom from "../../assets/images/mom.jpg";
-import greenmom from "../../assets/images/greenmom.jpg";
-import hero from "../../assets/images/hero.jpg";
-import grandma from "../../assets/images/grandma.jpg";
+import father from "../../assets/images/father.png";
+import dad from "../../assets/images/dad.png";
+import uncle from "../../assets/images/uncle.png";
+import herof from "../../assets/images/herof.png";
+import grandpa from "../../assets/images/grandpa.png";
+import coparent from "../../assets/images/coparent.jpg";
+import gentledad from "../../assets/images/gentledad.png";
 
 export default () => html`
 
@@ -37,35 +39,46 @@ export default () => html`
 
 
   </section>
-  <div id="mothersday">
-    <h4>Mothers Day cards and baskets coming soon! Use code "Fav Lady" starting April 15th to get 10% off</P>
+  <div id="fathersday">
+    <h4> Use code "Fav Guy" starting May 15th to get 10% off</P>
 
     <div id="read"> <p>Please read the carts page to place an order<p></div><br>
 
     <div id="cards">
 
     <ul>
-    <a href="https://drive.google.com/file/d/1aFthXAHi2ONo3HTTsLGOMgrm_JwTHvPA/view?usp=sharing" target="_blank"><img src=${queenb} alt="mothersday" width=300x300/><br> Queen <br> Seasonal $5.00 <br> Celebrating mother figures <br></a>
+    <a href="https://drive.google.com/file/d/1DalBWcW_YZtP3uILp3dujs61kZqXZQvN/view?usp=sharing" target="_blank"><img src=${father} alt="fathersday" width=300x300/><br> Father <br> Seasonal $5.00 <br> Celebrating father figures <br></a>
   </ul>
 
   <ul>
-  <a href="https://drive.google.com/file/d/1W0ZG3MjO2LW8GqLcu-MSd_40k8VNnnru/view?usp=sharing"
+  <a href="https://drive.google.com/file/d/1Dr3AAxzdh32P1CWGK8mNHyPoci6BUxUI/view?usp=sharing"
         target="_blank">
-    <img src=${mom} alt="mothersday" width=300x300><br> Mom <br> Seasonal $5.00 <br> Celebrating mother figures
+    <img src=${dad} alt="fathersday" width=300x300><br> Dad <br> Seasonal $5.00 <br> Celebrating father figures
   </ul>
 
    <ul>
-    <a href="https://drive.google.com/file/d/1aGrIjPWkLhW6wPq9mdRBJG_L9Ll3sARU/view?usp=sharing" target="_blank"><img src=${greenmom} alt="mothersday" width=300x300/><br> Stylish mom <br> Seasonal $5.00 <br> Celebrating mother figures <br></a>
+    <a href="https://drive.google.com/file/d/1E38Hl5TenojweiukmeEjldnOYAReLcuu/view?usp=sharing" target="_blank"><img src=${uncle} alt="fathersday" width=300x300/><br> Uncle <br> Seasonal $5.00 <br> Celebrating father figures <br></a>
   </ul>
 
   <ul>
-    <a href="https://drive.google.com/file/d/1d2Sq47XCd8rarFJOra37tKrP_Ofd1zmj/view?usp=sharing" target="_blank">
-    <img src=${hero} alt="mothersday" width=300x300/><br> Hero <br> Seasonal $5.00 <br> Celebrating mother figures <br></a>
+    <a href="https://drive.google.com/file/d/1EuhXAO4x6bbx7gqumbPRei87zDKoqST9/view?usp=sharing" target="_blank">
+    <img src=${herof} alt="fathersday" width=300x300/><br> Hero <br> Seasonal $5.00 <br> Celebrating father figures <br></a>
   </ul>
 
   <ul>
-    <a href="https://drive.google.com/file/d/1_UYAEfEAZB98_QfWFPKUUTeeSo0HBGZm/view?usp=sharing" target="_blank">
-    <img src=${grandma} alt="mothersday" width=300x300/><br> Grandma <br> Seasonal $5.00 <br> Celebrating mother figures <br></a>
+    <a href="https://drive.google.com/file/d/1FQ4ybjE28E3aviE_7F7_76oSM2B73obK/view?usp=sharing" target="_blank">
+    <img src=${grandpa} alt="fathersday" width=300x300/><br> Grandpa <br> Seasonal $5.00 <br> Celebrating father figures <br></a>
+  </ul>
+
+  <ul>
+    <a href="https://drive.google.com/file/d/1EPdtqVJKMYocDFvrFKUOQmQUqmHb1RCE/view?usp=sharing" target="_blank">
+    <img src=${coparent} alt="fathersday" width=300x300/><br> Coparent <br> Seasonal $5.00 <br> Celebrating father figures <br></a>
+
+  </ul>
+
+  <ul>
+    <a href="https://drive.google.com/file/d/1DS2JUFPUiF7hgdoPQTV6tmFDdoG5zVpn/view?usp=sharing" target="_blank">
+    <img src=${gentledad} alt="fathersday" width=300x300/><br> Gentle Dad <br> Seasonal $5.00 <br> Celebrating father figures <br></a>
   </ul>
 
           <p><h2>Mental Health</h2></p>

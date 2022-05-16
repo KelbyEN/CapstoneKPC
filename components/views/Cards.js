@@ -18,7 +18,7 @@ import marketing1 from "../../assets/images/marketing1.jpg";
 import Father from "../../assets/images/Father.png";
 import dad from "../../assets/images/dad.png";
 import uncle from "../../assets/images/uncle.png";
-import herof from "../../assets/images/herof.png";
+import HeroF from "../../assets/images/HeroF.png";
 import grandpa from "../../assets/images/grandpa.png";
 import coparent from "../../assets/images/coparent.jpg";
 import gentledad from "../../assets/images/gentledad.png";
@@ -62,7 +62,7 @@ export default () => html`
 
   <ul>
     <a href="https://drive.google.com/file/d/1EuhXAO4x6bbx7gqumbPRei87zDKoqST9/view?usp=sharing" target="_blank">
-    <img src=${herof} alt="fathersday" width=300x300/><br> Hero <br> Seasonal $5.00 <br> Celebrating father figures <br></a>
+    <img src=${HeroF} alt="fathersday" width=300x300/><br> Hero <br> Seasonal $5.00 <br> Celebrating father figures <br></a>
   </ul>
 
   <ul>

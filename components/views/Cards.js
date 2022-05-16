@@ -15,7 +15,7 @@ import Hbdwife from "../../assets/images/Hbdwife.png";
 import marketing1 from "../../assets/images/marketing1.jpg";
 // import Hbdwifein from "../../assets/images/Hbdwifein.png";
 // import Queen from "../../assets/images/Queen.jpg";
-import father from "../../assets/images/father.png";
+import Father from "../../assets/images/Father.png";
 import dad from "../../assets/images/dad.png";
 import uncle from "../../assets/images/uncle.png";
 import herof from "../../assets/images/herof.png";
@@ -47,7 +47,7 @@ export default () => html`
     <div id="cards">
 
     <ul>
-    <a href="https://drive.google.com/file/d/1DalBWcW_YZtP3uILp3dujs61kZqXZQvN/view?usp=sharing" target="_blank"><img src=${father} alt="fathersday" width=300x300/><br> Father <br> Seasonal $5.00 <br> Celebrating father figures <br></a>
+    <a href="https://drive.google.com/file/d/1DalBWcW_YZtP3uILp3dujs61kZqXZQvN/view?usp=sharing" target="_blank"><img src=${Father} alt="fathersday" width=300x300/><br> Father <br> Seasonal $5.00 <br> Celebrating father figures <br></a>
   </ul>
 
   <ul>

@@ -41,10 +41,10 @@ walk tall and head high as a proud black man,<br>
 Because theres no greater feeling than being a beautiful Black Man<br>
 </p>
 
-<p>Poem by: Kodaq <br> Kodaq is an entrepreneur, curator, creator and brand developer who enjoys writing in his free time. Find him on Instagram by clicking the picture below
+<h4>Poem by: Kodaq <br> Kodaq is an entrepreneur, curator, creator and brand developer who enjoys writing in his free time. Find him on Instagram by clicking the picture below
 <br>
 <a href="https://instagram.com/kodaq314?igshid=YmMyMTA2M2Y=" target="popup"><img src=${Kodaq} alt="anxiety" width="450x450" /><br /></a>
-</p>
+</h4>
 <!--
 <h4>If you liked this poem let the Poet know by commenting below!</h4>
 <div id="comment"><input type="text" id="comment-box" placeholder="Enter comment">

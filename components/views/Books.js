@@ -1,6 +1,6 @@
 import html from "html-literal";
 import Book1 from "../../assets/images/poeticphotos.jpg";
-import Tenyear from "../../assets/images/Tenyear.jpg";
+import tenyear from "../../assets/images/tenyear.jpg";
 import Thatsmydad from "../../assets/images/Thatsmydad.jpg";
 
 export default () => html`
@@ -30,7 +30,7 @@ export default () => html`
       <h3><b>Ten Year Old Me</b><br />
       <i>by Kelby Estes-Nelson</i><br /><br /></h3>
 
-      <img src=${Tenyear} alt="Ten Year Old Me" /><br/>
+      <img src=${tenyear} alt="Ten Year Old Me" /><br/>
 
       <h3>Learning to balance a check book at ten, was a big eye opener. I saw how my mother paid <br/> everything, I learned how to save and how to budget. I understood work ethic and the <br/>difference between needs and wants a little more. A lot of children don't receive these <br/>lessons. This book is dedicated to those children. It is to be a starting point on their <br/>financial journey. The book is catered to ages 9-14 but is a good read for anyone who <br/>many want to brush up on the basics.<br/></h3>
 

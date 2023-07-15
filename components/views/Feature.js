@@ -75,7 +75,7 @@ This was so much fun! Thecouplesplaydate.com for more info
 <img src=${BlackAuthorsExpo} alt="Black Authors Expo 22" width=400x400/><br>Click for event pictures<br></a>
    </p>
 
-   <p>Black Authors Expo Spring 23<br>
+   <p>Black Authors Expo Spring 2023<br>
   Back Again<br>
 <u;><a href="https://drive.google.com/drive/folders/12Cn7LgwzTDzGqORIZ7xNTVtVkhP2JdHE" target="popup"></u></h1>
 <img src=${ndblackauthors} alt="Black Authors Expo 2023" width=400x400/><br>Click for event pictures<br></a>

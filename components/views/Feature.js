@@ -67,9 +67,16 @@ This was so much fun! Thecouplesplaydate.com for more info
 <ul><a href="https://drive.google.com/drive/u/1/folders/16M64luy1Rw8EvI_s1tk-x-HFDnZAheQ7" target="popup">
     <img src=${TheCouplesPlaydate} alt="The Couples Playdate Event" width=400x400/>
    </ul></p><br>Click for event pictures<br></a>
-   <p>Black Authors Expo<br>
+
+   <p>Black Authors Expo 2022<br>
   There were so many great Authors in the room<br>
 <u;><a href="https://drive.google.com/drive/folders/1eGr0A6-ZMmdMfJ1yRHw4XCUU5Pfoh3JI?usp=sharing" target="popup"></u></h1>
+<img src=${BlackAuthorsExpo} alt="Black Authors Expo" width=400x400/><br>Click for event pictures<br></a>
+   </p>
+
+   <p>Black Authors Expo Spring 23<br>
+  Back Again<br>
+<u;><a href="https://drive.google.com/drive/folders/12Cn7LgwzTDzGqORIZ7xNTVtVkhP2JdHE" target="popup"></u></h1>
 <img src=${BlackAuthorsExpo} alt="Black Authors Expo" width=400x400/><br>Click for event pictures<br></a>
    </p>
   </section>

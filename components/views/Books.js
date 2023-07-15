@@ -48,6 +48,8 @@ export default () => html`
       <i>by Kelby Estes-Nelson</i><br /><br /></h3>
 
       <img src=${Thatsmydad} alt="Thats MY Dad" /><br/>
+
+      <h3>There are so many people who make up our tribe. They are not always people we look like.<br/> This book speaks to positive relationships with male role models when the biological <br/>father is absent or not present. It teaches children that hope is not lost. There are <br/>people who will still choose you and love you. It also gives them an idea of what a <br/>healthy bond may look like and who those male role models could be.<br/></h3>
       <h4>Click below to purchase</h4>
 
       <a

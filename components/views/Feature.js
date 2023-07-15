@@ -2,6 +2,7 @@ import html from "html-literal";
 import Kodaq from "../../assets/images/Kodaq.png";
 import BlackAuthorsExpo from "../../assets/images/BlackAuthorsExpo.png";
 import TheCouplesPlaydate from "../../assets/images/TheCouplesPlaydate.jpg";
+import ndblackauthors from "../../assets/images/ndblackauthors.jpg";
 export default () => html`
 
 <!-- <section class=events>
@@ -71,13 +72,13 @@ This was so much fun! Thecouplesplaydate.com for more info
    <p>Black Authors Expo 2022<br>
   There were so many great Authors in the room<br>
 <u;><a href="https://drive.google.com/drive/folders/1eGr0A6-ZMmdMfJ1yRHw4XCUU5Pfoh3JI?usp=sharing" target="popup"></u></h1>
-<img src=${BlackAuthorsExpo} alt="Black Authors Expo" width=400x400/><br>Click for event pictures<br></a>
+<img src=${BlackAuthorsExpo} alt="Black Authors Expo 22" width=400x400/><br>Click for event pictures<br></a>
    </p>
 
    <p>Black Authors Expo Spring 23<br>
   Back Again<br>
 <u;><a href="https://drive.google.com/drive/folders/12Cn7LgwzTDzGqORIZ7xNTVtVkhP2JdHE" target="popup"></u></h1>
-<img src=${BlackAuthorsExpo} alt="Black Authors Expo" width=400x400/><br>Click for event pictures<br></a>
+<img src=${ndblackauthors} alt="Black Authors Expo 2023" width=400x400/><br>Click for event pictures<br></a>
    </p>
   </section>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
